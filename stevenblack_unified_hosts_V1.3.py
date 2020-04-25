@@ -132,9 +132,12 @@ def convert_to_lsrules(target_url):
 					
 			elif (line.startswith('#</') and line.endswith('>')):
 				rule_notes='            "notes" : "",\n'
-			elif line.startswith('0.0.0.0') and not (line.endswith('0.0.0.0') and not (str(line.split('0.0.0.0')[1]).strip())):
+			elif line.startswith('0.0.0.0') and not (line.endswith('0.0.0.0')):
 				domain=line.split('0.0.0.0')
-				if first_rule:	
+				if (str(domain[1]).strip()==""):
+					#print(domain)
+					continue
+				elif first_rule:	
 					f.write(rule_start)
 					first_rule=False
 				else :
@@ -151,6 +154,7 @@ def convert_to_lsrules(target_url):
 					rule_remote_domain='            "remote-domains" : "'+str(str(domain[1].strip()).split('#')[0])+'"\n'
 				else:
 					rule_remote_domain='            "remote-domains" : "'+str(domain[1].strip())+'"\n'
+				#print(rule_remote_domain)
 				f.write(rule_remote_domain)
 				f.write(rule_end)
 				rule_count+=1

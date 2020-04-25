@@ -82,7 +82,7 @@ def convert_to_lsrules(target_url):
 		fl =f_host.readlines()
 		for line in fl:
 			line=line.strip()
-			#print(line)
+
 			if (line.startswith('# Date:') or line.startswith('# Number')) and not line.endswith('=') and description_ends==False:
 				description= description+line.split('#')[1]+' , '
 			elif line.startswith('#') and line.endswith('=') and description_ends==False:
@@ -100,7 +100,7 @@ def convert_to_lsrules(target_url):
 		for line in fl:
 			line=line.strip()
 			#print(line)
-			if  script_number > current_number :
+			if  (script_number > current_number) and (line.strip() != "") :
 				global f
 				file_name=output_script+str(script_number)+'.lsrules'
 				
@@ -133,9 +133,13 @@ def convert_to_lsrules(target_url):
 					
 			elif (line.startswith('#</') and line.endswith('>')):
 				rule_notes='            "notes" : "",\n'
-			elif line.startswith('0.0.0.0') and not (line.endswith('0.0.0.0') and not(str(line.split('0.0.0.0')[1]).strip()=="")):
+			elif line.startswith('0.0.0.0') and not (line.endswith('0.0.0.0')):
 				domain=line.split('0.0.0.0')
-				if first_rule:	
+				#print(domain)
+				if (str(domain[1].strip())==""):
+					#print(domain)
+					continue
+				elif first_rule:	
 					f.write(rule_start)
 					first_rule=False
 				else :
