@@ -132,7 +132,7 @@ def convert_to_lsrules(target_url):
 					
 			elif (line.startswith('#</') and line.endswith('>')):
 				rule_notes='            "notes" : "",\n'
-			elif line.startswith('0.0.0.0') and not (line.endswith('0.0.0.0')):
+			elif line.startswith('0.0.0.0') and not (line.endswith('0.0.0.0') and not (str(line.split('0.0.0.0')[1]).strip())):
 				domain=line.split('0.0.0.0')
 				if first_rule:	
 					f.write(rule_start)
