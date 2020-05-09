@@ -5,7 +5,7 @@ Python script will convert the unified host files provided and maintained by the
 as of now each rule group can hold maximum of 10,000 (rules, domain, hosts) script split the unified host file multiple small files each contains maximum of 10,000 rules to comply with Little Snitch limitation.
 
 ## Change log V2:
-In this new version of (Rule-GroupsV2)[https://rulegroups.com]. I heard all the opinions and wrote everythng from scratch to make it moduler. Now lists are separated by source and respective category. It will make a singe list much smaller and easier to handle by rule manager in little snitch. Do check the page and subscribe to the rulegroups with just a click.  
+In this new version of [Rule-GroupsV2](https://rulegroups.com "Litle Snitch Rule-Groups") . I heard all the opinions and wrote everythng from scratch to make it moduler. Now lists are separated by source and respective category. It will make a singe list much smaller and easier to handle by rule manager in little snitch. Do check the page and subscribe to the rulegroups with just a click.  
 
 ## Change log V1.3:
 As of Little Snitch 4.3 (5264) max domains per rule increased to 200,000. there is no need to create multiple rule group files with the previous limit of 10,000 rules per rule group. This version will generate single file in respective folder with the same name for easy subscription and management.
