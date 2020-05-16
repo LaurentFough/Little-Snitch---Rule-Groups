@@ -1,0 +1,158 @@
+{
+	"description" : " Date: 15 May 2020 23:48:16 (UTC) ,  Number of unique domains: 80,020 , ",
+	"name" : "stevenblack8.lsrules",
+	"rules" :  [
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "us.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "v.redd.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wh.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.np.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.reddit-stream.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditblog.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditgifts.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditinc.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditstatic.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pinpages.alwaysdata.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "allotalk.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mbga.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mixi.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mixch.tv"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1589644920.07,
+            "modificationDate" : 1589644920.07,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lobi.co"
+        }    ]
+}
