@@ -1,6 +1,6 @@
 import os
 import time
-import urllib2
+from urllib.request import urlopen
 
 def main():
 	base='https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts'
@@ -78,10 +78,10 @@ def convert_to_lsrules(target_url):
 	rule_remote_domain='            "remote-domains" : "'+"domain"+'"\n'
 	rule_end='        }'
 	try:
-		f_host=urllib2.urlopen(target_url)
+		f_host=urlopen(target_url)
 		fl =f_host.readlines()
 		for line in fl:
-			line=line.strip()
+			line=line.decode('utf-8').strip()
 
 			if (line.startswith('# Date:') or line.startswith('# Number')) and not line.endswith('=') and description_ends==False:
 				description= description+line.split('#')[1]+' , '
@@ -94,11 +94,11 @@ def convert_to_lsrules(target_url):
 			print(str(e))
 
 	try:	
-		f_host=urllib2.urlopen(target_url)
+		f_host=urlopen(target_url)
 		fl =f_host.readlines()
 		current_number=-1
 		for line in fl:
-			line=line.strip()
+			line=line.decode('utf-8').strip()
 			#print(line)
 			if  (script_number > current_number) and (line.strip() != "") :
 				global f
