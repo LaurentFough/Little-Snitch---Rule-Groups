@@ -1,0 +1,1706 @@
+{
+	"description" : " Date: 28 May 2020 01:17:17 (UTC) ,  Number of unique domains: 80,192 , ",
+	"name" : "stevenblack8.lsrules",
+	"rules" :  [
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3627005,
+            "modificationDate" : 1590994930.3627071,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.av-apa.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3627353,
+            "modificationDate" : 1590994930.3627396,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.av-e-body.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3627648,
+            "modificationDate" : 1590994930.3627667,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.av-hibino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3627732,
+            "modificationDate" : 1590994930.3627748,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.av-karma.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3627808,
+            "modificationDate" : 1590994930.3627825,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.av-opera.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3627884,
+            "modificationDate" : 1590994930.36279,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.avs-video.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3627963,
+            "modificationDate" : 1590994930.3627975,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.baby-baby-baby.cc"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.362804,
+            "modificationDate" : 1590994930.3628056,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.baltan-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628113,
+            "modificationDate" : 1590994930.3628137,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.beauty-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628197,
+            "modificationDate" : 1590994930.362821,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.befreebe.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628273,
+            "modificationDate" : 1590994930.3628287,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bi-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628347,
+            "modificationDate" : 1590994930.3628361,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bibian-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628426,
+            "modificationDate" : 1590994930.3628442,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bigmorkal.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.36285,
+            "modificationDate" : 1590994930.3628514,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bijinhyakka.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.362857,
+            "modificationDate" : 1590994930.3628588,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.boots-yakata.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628647,
+            "modificationDate" : 1590994930.3628662,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bravo-bravo.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628721,
+            "modificationDate" : 1590994930.3628733,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.btc.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628798,
+            "modificationDate" : 1590994930.3628812,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bullitt.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628871,
+            "modificationDate" : 1590994930.3628888,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bz-zone.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3628945,
+            "modificationDate" : 1590994930.3628962,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.centervillage.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.362902,
+            "modificationDate" : 1590994930.3629036,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.cheersuki.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3629096,
+            "modificationDate" : 1590994930.3629107,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.cherries.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3629167,
+            "modificationDate" : 1590994930.3629181,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.choi-waru.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3629246,
+            "modificationDate" : 1590994930.362926,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.cinemagic.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.362932,
+            "modificationDate" : 1590994930.3629334,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.cocoa-soft.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3629391,
+            "modificationDate" : 1590994930.3629408,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.collector-web.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3629465,
+            "modificationDate" : 1590994930.3629482,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.comusume.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3629541,
+            "modificationDate" : 1590994930.3629558,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.crosscross.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630052,
+            "modificationDate" : 1590994930.3630075,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.crystal-eizou.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630142,
+            "modificationDate" : 1590994930.3630157,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dasdas.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630219,
+            "modificationDate" : 1590994930.3630233,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.digital-ark.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363029,
+            "modificationDate" : 1590994930.3630304,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dmm.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630366,
+            "modificationDate" : 1590994930.3630383,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dogma.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630438,
+            "modificationDate" : 1590994930.3630457,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dse-web.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363052,
+            "modificationDate" : 1590994930.363053,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dt01.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630595,
+            "modificationDate" : 1590994930.3630607,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.e-corona.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630667,
+            "modificationDate" : 1590994930.3630686,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.elog-ch.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630745,
+            "modificationDate" : 1590994930.3630762,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.emmanuelle-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630822,
+            "modificationDate" : 1590994930.3630838,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.erogazou-mirunavi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630896,
+            "modificationDate" : 1590994930.363091,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.eroita.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3630974,
+            "modificationDate" : 1590994930.3630989,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.erokkuma.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363105,
+            "modificationDate" : 1590994930.3631063,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.eroshearts.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3631122,
+            "modificationDate" : 1590994930.3631139,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fa-pro.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3631198,
+            "modificationDate" : 1590994930.3631213,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fantadream.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363127,
+            "modificationDate" : 1590994930.3631287,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fantasista-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3631346,
+            "modificationDate" : 1590994930.3631363,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.feitish.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3631423,
+            "modificationDate" : 1590994930.3631437,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fitch-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3631494,
+            "modificationDate" : 1590994930.3631506,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fullsail-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3631568,
+            "modificationDate" : 1590994930.363158,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fv-candy.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363164,
+            "modificationDate" : 1590994930.3631651,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.garcon-web.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363171,
+            "modificationDate" : 1590994930.3631725,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.garcon1.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363179,
+            "modificationDate" : 1590994930.3631804,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.gas-web.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3631861,
+            "modificationDate" : 1590994930.3631876,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ge-kko.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3631933,
+            "modificationDate" : 1590994930.363195,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.glayz.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3632007,
+            "modificationDate" : 1590994930.363202,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.gloryquest.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3632085,
+            "modificationDate" : 1590994930.36321,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.gme-inc.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363216,
+            "modificationDate" : 1590994930.3632395,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hajimekikaku.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3632474,
+            "modificationDate" : 1590994930.3632488,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hamajim.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3632548,
+            "modificationDate" : 1590994930.3632562,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hatsudori.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3632622,
+            "modificationDate" : 1590994930.3632638,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hmp.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3632696,
+            "modificationDate" : 1590994930.3632712,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hmvision.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363277,
+            "modificationDate" : 1590994930.3632786,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hot-et.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3632846,
+            "modificationDate" : 1590994930.363286,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hpsart.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3632922,
+            "modificationDate" : 1590994930.3632936,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hrc-av.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3632994,
+            "modificationDate" : 1590994930.3633008,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hunter-pp.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3633072,
+            "modificationDate" : 1590994930.363309,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.i-dol.tv"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3633146,
+            "modificationDate" : 1590994930.363316,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ibworks.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363322,
+            "modificationDate" : 1590994930.3633237,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ideapocket.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3633296,
+            "modificationDate" : 1590994930.3633308,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ienergy1.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363337,
+            "modificationDate" : 1590994930.3633385,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ifrit-fv.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3633442,
+            "modificationDate" : 1590994930.3633456,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.indies-av.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3633516,
+            "modificationDate" : 1590994930.363353,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.j-model.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3633587,
+            "modificationDate" : 1590994930.3633602,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.jade-net-home.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363366,
+            "modificationDate" : 1590994930.363368,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.jah.ne.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3633738,
+            "modificationDate" : 1590994930.3633754,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.jewel-2001.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3633811,
+            "modificationDate" : 1590994930.3633826,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.jns-grp.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3633883,
+            "modificationDate" : 1590994930.36339,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kasakura.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363396,
+            "modificationDate" : 1590994930.3633971,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kawaiikawaii.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3634028,
+            "modificationDate" : 1590994930.3634043,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kichu.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3634102,
+            "modificationDate" : 1590994930.3634117,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kirakira-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363418,
+            "modificationDate" : 1590994930.3634193,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.km-produce.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3634253,
+            "modificationDate" : 1590994930.363427,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.knights-visual.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3634324,
+            "modificationDate" : 1590994930.363434,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kobayashi-web.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.36344,
+            "modificationDate" : 1590994930.3634417,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.koyacho.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3634477,
+            "modificationDate" : 1590994930.3634489,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ks-p.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363471,
+            "modificationDate" : 1590994930.363473,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kuki.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3634791,
+            "modificationDate" : 1590994930.3634803,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kyosui.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3634865,
+            "modificationDate" : 1590994930.3634877,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.lady2.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3634937,
+            "modificationDate" : 1590994930.363495,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.little-mango.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363501,
+            "modificationDate" : 1590994930.3635025,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.love2bbs.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3635085,
+            "modificationDate" : 1590994930.3635101,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.lustrous2ft.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3635159,
+            "modificationDate" : 1590994930.3635175,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.madonna-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3635232,
+            "modificationDate" : 1590994930.363525,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.maria-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363531,
+            "modificationDate" : 1590994930.3635325,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.marx.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3635385,
+            "modificationDate" : 1590994930.36354,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.max-a.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363546,
+            "modificationDate" : 1590994930.3635473,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.maxing.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3635533,
+            "modificationDate" : 1590994930.3635545,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mediabank.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363561,
+            "modificationDate" : 1590994930.3635626,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mgstage.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3635683,
+            "modificationDate" : 1590994930.36357,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.milky-cat.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3635755,
+            "modificationDate" : 1590994930.3635771,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.milky.tv"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363583,
+            "modificationDate" : 1590994930.3635845,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.milkyprin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3635905,
+            "modificationDate" : 1590994930.3635917,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.milu-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363598,
+            "modificationDate" : 1590994930.3635993,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.minimum-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3636053,
+            "modificationDate" : 1590994930.3636067,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mobs.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3636127,
+            "modificationDate" : 1590994930.3636138,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.moodyz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.36362,
+            "modificationDate" : 1590994930.3636217,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mousouzoku-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3636274,
+            "modificationDate" : 1590994930.3636289,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mozakin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3636346,
+            "modificationDate" : 1590994930.3636363,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.museum-next.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3636425,
+            "modificationDate" : 1590994930.363644,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mutekimuteki.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3636498,
+            "modificationDate" : 1590994930.363651,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mvg.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363657,
+            "modificationDate" : 1590994930.3636582,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.nagae-style.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3636642,
+            "modificationDate" : 1590994930.3636656,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.nakedfilm.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3636718,
+            "modificationDate" : 1590994930.3636734,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.nanpa-japan.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3636937,
+            "modificationDate" : 1590994930.3636959,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.naturalhigh.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637025,
+            "modificationDate" : 1590994930.363704,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.next11.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.36371,
+            "modificationDate" : 1590994930.3637116,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.night24.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637173,
+            "modificationDate" : 1590994930.363719,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.non-non.info"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637245,
+            "modificationDate" : 1590994930.3637261,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.nuruai.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637323,
+            "modificationDate" : 1590994930.3637338,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.onair-e-net.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637397,
+            "modificationDate" : 1590994930.3637412,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.oppai-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637474,
+            "modificationDate" : 1590994930.3637486,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.otona-times.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637545,
+            "modificationDate" : 1590994930.363756,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.p-fw.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637621,
+            "modificationDate" : 1590994930.3637638,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.p-jade.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637695,
+            "modificationDate" : 1590994930.3637712,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.palplanning.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637774,
+            "modificationDate" : 1590994930.3637788,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pierrot-net.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637846,
+            "modificationDate" : 1590994930.363786,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pinknotora.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637922,
+            "modificationDate" : 1590994930.3637934,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.plum-web.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3637993,
+            "modificationDate" : 1590994930.3638008,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pornograph.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3638067,
+            "modificationDate" : 1590994930.3638082,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.premium-beauty.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3638139,
+            "modificationDate" : 1590994930.3638153,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.prestige-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3638217,
+            "modificationDate" : 1590994930.3638234,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.r-e-d.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363829,
+            "modificationDate" : 1590994930.3638306,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.radix-net.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3638365,
+            "modificationDate" : 1590994930.3638377,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ran-maru.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3638437,
+            "modificationDate" : 1590994930.363845,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.realworks.tv"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363851,
+            "modificationDate" : 1590994930.3638523,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.rocket-inc.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363858,
+            "modificationDate" : 1590994930.3638594,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.rookie-av.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3638654,
+            "modificationDate" : 1590994930.3638673,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.royalart.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363873,
+            "modificationDate" : 1590994930.3638747,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ruby-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3638804,
+            "modificationDate" : 1590994930.363882,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.s-cute.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3638875,
+            "modificationDate" : 1590994930.3638892,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.s1s1s1.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3638957,
+            "modificationDate" : 1590994930.363897,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sadistic-v.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3639028,
+            "modificationDate" : 1590994930.3639042,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.saiminou.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3639228,
+            "modificationDate" : 1590994930.3639247,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sakurakikaku.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363931,
+            "modificationDate" : 1590994930.3639324,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sexia.tv"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3639383,
+            "modificationDate" : 1590994930.3639398,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sexopowiadania.pl"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3639457,
+            "modificationDate" : 1590994930.3639472,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.shanimuni.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363953,
+            "modificationDate" : 1590994930.3639548,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.shinoda-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3639607,
+            "modificationDate" : 1590994930.3639624,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.shitagi.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3639684,
+            "modificationDate" : 1590994930.3639698,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.shuttle-japan.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3639758,
+            "modificationDate" : 1590994930.3639772,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.side-b.tv"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3639836,
+            "modificationDate" : 1590994930.363985,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sod.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.363991,
+            "modificationDate" : 1590994930.3639922,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sodc.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3639982,
+            "modificationDate" : 1590994930.3639998,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sosoru-web.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640058,
+            "modificationDate" : 1590994930.3640072,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sq4610.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640137,
+            "modificationDate" : 1590994930.364015,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.starparadise.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.364021,
+            "modificationDate" : 1590994930.3640225,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.styleart.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640285,
+            "modificationDate" : 1590994930.36403,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sugarworks.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640358,
+            "modificationDate" : 1590994930.3640373,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sukebegazou.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.364043,
+            "modificationDate" : 1590994930.3640444,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.syukou-club.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640506,
+            "modificationDate" : 1590994930.3640523,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.takara-tv.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.364058,
+            "modificationDate" : 1590994930.3640594,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.takeone-nagoya.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640652,
+            "modificationDate" : 1590994930.3640668,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tameikegoro.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640728,
+            "modificationDate" : 1590994930.3640742,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tenka1.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640802,
+            "modificationDate" : 1590994930.3640816,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tigermeisters.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640873,
+            "modificationDate" : 1590994930.3640888,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tma.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3640952,
+            "modificationDate" : 1590994930.3640969,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.to-satsu.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641026,
+            "modificationDate" : 1590994930.364104,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tokyomotion.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641098,
+            "modificationDate" : 1590994930.3641112,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.top1-net.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641179,
+            "modificationDate" : 1590994930.3641193,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.town-net.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641253,
+            "modificationDate" : 1590994930.3641264,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tumanude.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641455,
+            "modificationDate" : 1590994930.3641472,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.uandk-idea.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641536,
+            "modificationDate" : 1590994930.364155,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.uicupid.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.364161,
+            "modificationDate" : 1590994930.3641624,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.v-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641684,
+            "modificationDate" : 1590994930.36417,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.vandr.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641758,
+            "modificationDate" : 1590994930.3641775,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.videomanial.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641832,
+            "modificationDate" : 1590994930.3641849,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.vr-products.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.364191,
+            "modificationDate" : 1590994930.3641922,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.waap.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3641984,
+            "modificationDate" : 1590994930.3641999,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.wanz-factory.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3642058,
+            "modificationDate" : 1590994930.3642075,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.woman-otona.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3642135,
+            "modificationDate" : 1590994930.3642151,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.yamiboard.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.364221,
+            "modificationDate" : 1590994930.3642228,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.yamigama.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3642282,
+            "modificationDate" : 1590994930.36423,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.yellow-movie.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.364236,
+            "modificationDate" : 1590994930.3642375,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.yellowbox.co.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3642433,
+            "modificationDate" : 1590994930.3642447,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.yellowduck.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3642507,
+            "modificationDate" : 1590994930.364252,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.zetton-av.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3642578,
+            "modificationDate" : 1590994930.3642592,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.zeus-web.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3642652,
+            "modificationDate" : 1590994930.3642666,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www2.giga-jp.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.364273,
+            "modificationDate" : 1590994930.3642745,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yamidas.yamiboard.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1590994930.3642802,
+            "modificationDate" : 1590994930.364282,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yamigama.com"
+        }    ]
+}
