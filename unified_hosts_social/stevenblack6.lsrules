@@ -1,0 +1,2696 @@
+{
+	"description" : " Date: 03 June 2020 00:35:05 (UTC) ,  Number of unique domains: 60,302 , ",
+	"name" : "stevenblack6.lsrules",
+	"rules" :  [
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1581962,
+            "modificationDate" : 1591466562.1581993,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "members.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582067,
+            "modificationDate" : 1591466562.158208,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mentor.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582143,
+            "modificationDate" : 1591466562.158216,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mobile.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582222,
+            "modificationDate" : 1591466562.1582236,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ms.bantuan.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582298,
+            "modificationDate" : 1591466562.1582315,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mx.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582375,
+            "modificationDate" : 1591466562.158239,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "my.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158245,
+            "modificationDate" : 1591466562.1582468,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "napoveda.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158253,
+            "modificationDate" : 1591466562.1582544,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nc.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582606,
+            "modificationDate" : 1591466562.1582625,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "news.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582685,
+            "modificationDate" : 1591466562.15827,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ng.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158276,
+            "modificationDate" : 1591466562.1582778,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nl.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582835,
+            "modificationDate" : 1591466562.1582851,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "no.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582913,
+            "modificationDate" : 1591466562.158293,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nonprofit.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1582992,
+            "modificationDate" : 1591466562.1583006,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nonprofits.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583066,
+            "modificationDate" : 1591466562.158308,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nr.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583142,
+            "modificationDate" : 1591466562.1583157,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ns1.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583216,
+            "modificationDate" : 1591466562.158323,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ns2.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583292,
+            "modificationDate" : 1591466562.158331,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ns3.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583369,
+            "modificationDate" : 1591466562.1583383,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nt.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583443,
+            "modificationDate" : 1591466562.1583457,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nz.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158352,
+            "modificationDate" : 1591466562.158353,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "opportunity.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158359,
+            "modificationDate" : 1591466562.1583605,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ourstory.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583664,
+            "modificationDate" : 1591466562.158368,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pl.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583738,
+            "modificationDate" : 1591466562.1583755,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "platform.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583812,
+            "modificationDate" : 1591466562.158383,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "polls.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583889,
+            "modificationDate" : 1591466562.1583903,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pomoc.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1583962,
+            "modificationDate" : 1591466562.1583977,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "premium.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1584036,
+            "modificationDate" : 1591466562.158405,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "press.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1584458,
+            "modificationDate" : 1591466562.1584485,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pt.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1584544,
+            "modificationDate" : 1591466562.158456,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "purchasing.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1584623,
+            "modificationDate" : 1591466562.1584637,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "qa.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1584697,
+            "modificationDate" : 1591466562.158471,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "remote.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1584773,
+            "modificationDate" : 1591466562.1584787,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ro.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158485,
+            "modificationDate" : 1591466562.1584866,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ru.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1584923,
+            "modificationDate" : 1591466562.158494,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "rw.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585002,
+            "modificationDate" : 1591466562.1585016,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sa.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158508,
+            "modificationDate" : 1591466562.1585095,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sales.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585157,
+            "modificationDate" : 1591466562.158517,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "salesconnect.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585233,
+            "modificationDate" : 1591466562.158525,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sandbox.lms.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585307,
+            "modificationDate" : 1591466562.1585324,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "se.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585388,
+            "modificationDate" : 1591466562.1585402,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "security.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585462,
+            "modificationDate" : 1591466562.1585476,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sg.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585536,
+            "modificationDate" : 1591466562.158555,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "si.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158561,
+            "modificationDate" : 1591466562.1585627,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "signin.lms.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585684,
+            "modificationDate" : 1591466562.15857,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "smallbusiness.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585765,
+            "modificationDate" : 1591466562.158578,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "specialedition.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1585839,
+            "modificationDate" : 1591466562.1585853,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "static.licdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1586103,
+            "modificationDate" : 1591466562.1586127,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "studentcareers.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1586194,
+            "modificationDate" : 1591466562.1586208,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "students.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1586268,
+            "modificationDate" : 1591466562.1586285,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ta.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1586344,
+            "modificationDate" : 1591466562.1586359,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "talent.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1586416,
+            "modificationDate" : 1591466562.1586432,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "td.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1586494,
+            "modificationDate" : 1591466562.1586509,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "th-th.help.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1586568,
+            "modificationDate" : 1591466562.1586583,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tm.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158664,
+            "modificationDate" : 1591466562.1586654,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tn.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1586716,
+            "modificationDate" : 1591466562.158673,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "touch.www.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1587057,
+            "modificationDate" : 1591466562.1587079,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tr.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1587143,
+            "modificationDate" : 1591466562.158716,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "training.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1587217,
+            "modificationDate" : 1591466562.1587234,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tulong.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1587293,
+            "modificationDate" : 1591466562.1587307,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tv.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158737,
+            "modificationDate" : 1591466562.1587384,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tw.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1587443,
+            "modificationDate" : 1591466562.158746,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tz.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1587522,
+            "modificationDate" : 1591466562.1587536,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "uk.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1587598,
+            "modificationDate" : 1591466562.1587613,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "university.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158767,
+            "modificationDate" : 1591466562.1587691,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "us.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158775,
+            "modificationDate" : 1591466562.1587765,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "veterans.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1587827,
+            "modificationDate" : 1591466562.1587842,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "volunteer.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.15879,
+            "modificationDate" : 1591466562.1587915,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "volunteers.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1587977,
+            "modificationDate" : 1591466562.1587994,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ws.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1588051,
+            "modificationDate" : 1591466562.1588066,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.brand.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158813,
+            "modificationDate" : 1591466562.1588144,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bringinyourparents.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1588204,
+            "modificationDate" : 1591466562.1588218,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.business.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1588278,
+            "modificationDate" : 1591466562.1588292,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.certification.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1588356,
+            "modificationDate" : 1591466562.1588373,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.commsconnect.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1588433,
+            "modificationDate" : 1591466562.1588447,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.financeconnect.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158851,
+            "modificationDate" : 1591466562.1588523,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.gsk.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1588583,
+            "modificationDate" : 1591466562.1588597,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.imagine.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158866,
+            "modificationDate" : 1591466562.1588671,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.licdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1588733,
+            "modificationDate" : 1591466562.1588745,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.lifg.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1588807,
+            "modificationDate" : 1591466562.1588824,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158888,
+            "modificationDate" : 1591466562.1588898,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.linkedinforgood.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1588957,
+            "modificationDate" : 1591466562.1588972,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.live.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1589031,
+            "modificationDate" : 1591466562.1589046,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.members.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1589105,
+            "modificationDate" : 1591466562.158912,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mobile.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158937,
+            "modificationDate" : 1591466562.1589391,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.nonprofit.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1589453,
+            "modificationDate" : 1591466562.1589465,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.premium.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1589527,
+            "modificationDate" : 1591466562.1589541,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.purchasing.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.15896,
+            "modificationDate" : 1591466562.1589618,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.salesconnect.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1589677,
+            "modificationDate" : 1591466562.1589692,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.smallbusiness.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1589751,
+            "modificationDate" : 1591466562.1589768,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.studentcareers.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1589828,
+            "modificationDate" : 1591466562.1589842,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.students.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1589906,
+            "modificationDate" : 1591466562.158992,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.university.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.158998,
+            "modificationDate" : 1591466562.159,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.veterans.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1590056,
+            "modificationDate" : 1591466562.1590073,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.volunteer.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1590133,
+            "modificationDate" : 1591466562.159015,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yardim.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159021,
+            "modificationDate" : 1591466562.159022,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "za.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1590285,
+            "modificationDate" : 1591466562.15903,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zh-cn.help.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159036,
+            "modificationDate" : 1591466562.1590374,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zh-tw.help.linkedin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1590466,
+            "modificationDate" : 1591466562.159048,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a1-images.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1590788,
+            "modificationDate" : 1591466562.1590822,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a1.ec-images.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1590893,
+            "modificationDate" : 1591466562.159091,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a2-images.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159098,
+            "modificationDate" : 1591466562.159099,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a2.ec-images.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159105,
+            "modificationDate" : 1591466562.1591065,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a3-images.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1591125,
+            "modificationDate" : 1591466562.159114,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a3.ec-images.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1591198,
+            "modificationDate" : 1591466562.1591215,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a4-images.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1591272,
+            "modificationDate" : 1591466562.159129,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a4.ec-images.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1591346,
+            "modificationDate" : 1591466562.159136,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "browseusers.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1591423,
+            "modificationDate" : 1591466562.1591437,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "classifieds.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1591496,
+            "modificationDate" : 1591466562.159151,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "cms.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159157,
+            "modificationDate" : 1591466562.1591585,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "collect.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1591644,
+            "modificationDate" : 1591466562.1591659,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "events.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1591718,
+            "modificationDate" : 1591466562.1591735,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "favorites.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592014,
+            "modificationDate" : 1591466562.159203,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "forum.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592093,
+            "modificationDate" : 1591466562.159211,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "groups.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592171,
+            "modificationDate" : 1591466562.1592185,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "home.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592245,
+            "modificationDate" : 1591466562.1592262,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "invite.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592321,
+            "modificationDate" : 1591466562.1592338,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "linux.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.15924,
+            "modificationDate" : 1591466562.1592414,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "log.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592474,
+            "modificationDate" : 1591466562.1592488,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "login.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159255,
+            "modificationDate" : 1591466562.1592565,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mail.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159263,
+            "modificationDate" : 1591466562.1592646,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "message.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592708,
+            "modificationDate" : 1591466562.159272,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "messages.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592782,
+            "modificationDate" : 1591466562.1592796,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "music.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592855,
+            "modificationDate" : 1591466562.159287,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mx2.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1592934,
+            "modificationDate" : 1591466562.159295,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159301,
+            "modificationDate" : 1591466562.1593025,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1593084,
+            "modificationDate" : 1591466562.15931,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ns1.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159316,
+            "modificationDate" : 1591466562.1593175,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ns2.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1593235,
+            "modificationDate" : 1591466562.159325,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "profile.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159331,
+            "modificationDate" : 1591466562.1593325,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "rio.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1593385,
+            "modificationDate" : 1591466562.1593401,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "search.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1593459,
+            "modificationDate" : 1591466562.1593475,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "security.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1593533,
+            "modificationDate" : 1591466562.159355,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "signup.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159361,
+            "modificationDate" : 1591466562.1593623,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "videos.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1593683,
+            "modificationDate" : 1591466562.1593697,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vids.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1593757,
+            "modificationDate" : 1591466562.159377,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "viewmorepics.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159383,
+            "modificationDate" : 1591466562.1593845,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta01.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1593902,
+            "modificationDate" : 1591466562.1593916,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta02.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1593976,
+            "modificationDate" : 1591466562.1593993,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta03.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159405,
+            "modificationDate" : 1591466562.1594067,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta04.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1594317,
+            "modificationDate" : 1591466562.1594338,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta05.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1594398,
+            "modificationDate" : 1591466562.1594415,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta06.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1594477,
+            "modificationDate" : 1591466562.1594489,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta07.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159455,
+            "modificationDate" : 1591466562.1594565,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta08.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1594625,
+            "modificationDate" : 1591466562.159464,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta09.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1594698,
+            "modificationDate" : 1591466562.1594713,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta10.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1594775,
+            "modificationDate" : 1591466562.1594791,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta11.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159485,
+            "modificationDate" : 1591466562.1594865,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta12.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1594923,
+            "modificationDate" : 1591466562.159494,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmta13.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595001,
+            "modificationDate" : 1591466562.1595016,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595078,
+            "modificationDate" : 1591466562.1595092,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595151,
+            "modificationDate" : 1591466562.1595166,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www1.myspace.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595228,
+            "modificationDate" : 1591466562.1595244,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "x.myspacecdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595335,
+            "modificationDate" : 1591466562.1595352,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "about.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159541,
+            "modificationDate" : 1591466562.1595426,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "accounts.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595485,
+            "modificationDate" : 1591466562.15955,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "api.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595562,
+            "modificationDate" : 1591466562.1595573,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "api.pinterest.com.gslb.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595638,
+            "modificationDate" : 1591466562.1595652,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "assets.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595712,
+            "modificationDate" : 1591466562.1595728,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "blog.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595786,
+            "modificationDate" : 1591466562.1595802,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "br.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595862,
+            "modificationDate" : 1591466562.1595879,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "business.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1595938,
+            "modificationDate" : 1591466562.1595953,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "developers.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1596014,
+            "modificationDate" : 1591466562.1596026,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "dualstack.pinterest.map.fastly.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1596088,
+            "modificationDate" : 1591466562.1596103,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "engineering.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1596162,
+            "modificationDate" : 1591466562.159618,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "fr.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1596236,
+            "modificationDate" : 1591466562.1596253,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "help.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159631,
+            "modificationDate" : 1591466562.1596324,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i-h1.pinimg.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1596386,
+            "modificationDate" : 1591466562.1596398,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.pinimg.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1596673,
+            "modificationDate" : 1591466562.1596694,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.pinimg.com.edgekey.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1596763,
+            "modificationDate" : 1591466562.159678,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.pinimg.com.gslb.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159684,
+            "modificationDate" : 1591466562.1596854,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "id.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1596916,
+            "modificationDate" : 1591466562.159693,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pin.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1596992,
+            "modificationDate" : 1591466562.1597006,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pinimg.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597068,
+            "modificationDate" : 1591466562.1597085,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597145,
+            "modificationDate" : 1591466562.1597161,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "post.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597223,
+            "modificationDate" : 1591466562.1597238,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "prod.pinterest.global.map.fastly.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.15973,
+            "modificationDate" : 1591466562.1597311,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "s-passets.pinimg.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597378,
+            "modificationDate" : 1591466562.1597395,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "s-pinimg-com.gslb.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597452,
+            "modificationDate" : 1591466562.159747,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "s.pinimg.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597528,
+            "modificationDate" : 1591466562.1597545,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "s.pinimg.com.edgekey.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597605,
+            "modificationDate" : 1591466562.159762,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "s.pinimg.com.gslb.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597683,
+            "modificationDate" : 1591466562.1597698,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "uk.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597757,
+            "modificationDate" : 1591466562.1597772,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "v.pinimg.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1597834,
+            "modificationDate" : 1591466562.159785,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "v.pinimg.com.edgekey.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159791,
+            "modificationDate" : 1591466562.1597927,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "v.pinimg.com.gslb.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159799,
+            "modificationDate" : 1591466562.1598005,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pinterest.ch"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1598065,
+            "modificationDate" : 1591466562.159808,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1598136,
+            "modificationDate" : 1591466562.159815,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pinterest.com.au"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1598213,
+            "modificationDate" : 1591466562.159823,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pinterest.com.edgekey.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1598287,
+            "modificationDate" : 1591466562.1598306,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pinterest.com.gslb.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1598365,
+            "modificationDate" : 1591466562.1598377,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pinterest.fr"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1598463,
+            "modificationDate" : 1591466562.159848,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "24.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159854,
+            "modificationDate" : 1591466562.1598551,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "25.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159861,
+            "modificationDate" : 1591466562.1598625,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "28.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1598685,
+            "modificationDate" : 1591466562.15987,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "36.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1598759,
+            "modificationDate" : 1591466562.1598773,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "37.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159905,
+            "modificationDate" : 1591466562.1599073,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "38.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159914,
+            "modificationDate" : 1591466562.1599154,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "40.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1599214,
+            "modificationDate" : 1591466562.1599233,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "66.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159929,
+            "modificationDate" : 1591466562.1599307,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "67.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1599364,
+            "modificationDate" : 1591466562.159938,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "68.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1599438,
+            "modificationDate" : 1591466562.1599455,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "78.media.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.159952,
+            "modificationDate" : 1591466562.159953,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1599596,
+            "modificationDate" : 1591466562.159961,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "api.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1599672,
+            "modificationDate" : 1591466562.1599686,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "assets.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1599748,
+            "modificationDate" : 1591466562.1599765,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "cookiex.ngd.yahoo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1599824,
+            "modificationDate" : 1591466562.1599839,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "embed.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1599898,
+            "modificationDate" : 1591466562.1599913,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "engineering.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1599975,
+            "modificationDate" : 1591466562.159999,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "platform.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160005,
+            "modificationDate" : 1591466562.1600068,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "px.srvcs.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600125,
+            "modificationDate" : 1591466562.1600142,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "secure.assets.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.16002,
+            "modificationDate" : 1591466562.1600215,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "secure.static.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600277,
+            "modificationDate" : 1591466562.160029,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "staff.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600356,
+            "modificationDate" : 1591466562.160037,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "static.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160043,
+            "modificationDate" : 1591466562.1600442,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600504,
+            "modificationDate" : 1591466562.160052,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tumblr.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600578,
+            "modificationDate" : 1591466562.1600595,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "v.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600652,
+            "modificationDate" : 1591466562.1600668,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vt.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600728,
+            "modificationDate" : 1591466562.160074,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tumblr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600823,
+            "modificationDate" : 1591466562.160084,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "a.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600902,
+            "modificationDate" : 1591466562.1600914,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "about.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1600974,
+            "modificationDate" : 1591466562.1600988,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "alb.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160105,
+            "modificationDate" : 1591466562.1601064,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "amp-reddit-com.cdn.ampproject.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1601126,
+            "modificationDate" : 1591466562.1601143,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "b.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.16012,
+            "modificationDate" : 1591466562.1601214,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "c.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160151,
+            "modificationDate" : 1591466562.1601532,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "d.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1601589,
+            "modificationDate" : 1591466562.1601605,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "e.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1601667,
+            "modificationDate" : 1591466562.1601682,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "e.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1601741,
+            "modificationDate" : 1591466562.1601756,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "emoji.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1601818,
+            "modificationDate" : 1591466562.1601832,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "en.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1601894,
+            "modificationDate" : 1591466562.1601908,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "events.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1601965,
+            "modificationDate" : 1591466562.1601985,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "external-preview.redd.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602042,
+            "modificationDate" : 1591466562.1602058,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "f.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602123,
+            "modificationDate" : 1591466562.1602137,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "fr.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602197,
+            "modificationDate" : 1591466562.160221,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "g.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160227,
+            "modificationDate" : 1591466562.1602285,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "gateway.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602345,
+            "modificationDate" : 1591466562.160236,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "gp.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160242,
+            "modificationDate" : 1591466562.1602437,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "gql.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602497,
+            "modificationDate" : 1591466562.1602511,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "hw.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602573,
+            "modificationDate" : 1591466562.1602588,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.redd.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602647,
+            "modificationDate" : 1591466562.1602662,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602721,
+            "modificationDate" : 1591466562.1602736,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.16028,
+            "modificationDate" : 1591466562.1602817,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.reddituploads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602871,
+            "modificationDate" : 1591466562.1602888,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "it.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1602948,
+            "modificationDate" : 1591466562.1602964,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "m.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1603024,
+            "modificationDate" : 1591466562.1603038,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "meta-api.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1603098,
+            "modificationDate" : 1591466562.160311,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mod.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1603172,
+            "modificationDate" : 1591466562.1603184,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "new.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1603246,
+            "modificationDate" : 1591466562.1603262,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "np.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160332,
+            "modificationDate" : 1591466562.1603334,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nsfw.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160339,
+            "modificationDate" : 1591466562.1603408,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "oauth.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1603465,
+            "modificationDate" : 1591466562.1603482,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "old.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1603541,
+            "modificationDate" : 1591466562.1603556,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "oops.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1603792,
+            "modificationDate" : 1591466562.160381,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "out.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1603873,
+            "modificationDate" : 1591466562.160389,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pixel.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160395,
+            "modificationDate" : 1591466562.1603963,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "preview.redd.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604025,
+            "modificationDate" : 1591466562.160404,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "redd.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604102,
+            "modificationDate" : 1591466562.1604116,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "reddit-image.s3.amazonaws.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604176,
+            "modificationDate" : 1591466562.1604192,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "reddit-stream.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604254,
+            "modificationDate" : 1591466562.160427,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "reddit-uploaded-media.s3-accelerate.amazonaws.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604333,
+            "modificationDate" : 1591466562.1604347,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "reddit-uploaded-video.s3-accelerate.amazonaws.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160441,
+            "modificationDate" : 1591466562.1604426,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604488,
+            "modificationDate" : 1591466562.16045,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "reddit.map.fastly.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604562,
+            "modificationDate" : 1591466562.1604576,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "redditama.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604636,
+            "modificationDate" : 1591466562.160465,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "redditblog.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604712,
+            "modificationDate" : 1591466562.1604729,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "redditgifts.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160479,
+            "modificationDate" : 1591466562.1604803,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "redditgifts.s3.amazonaws.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604862,
+            "modificationDate" : 1591466562.160488,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1604939,
+            "modificationDate" : 1591466562.160495,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "s.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160501,
+            "modificationDate" : 1591466562.1605024,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "s.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160509,
+            "modificationDate" : 1591466562.1605105,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sendbird.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1605163,
+            "modificationDate" : 1591466562.160518,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ssl.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160524,
+            "modificationDate" : 1591466562.160525,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "static.redditgifts.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1605313,
+            "modificationDate" : 1591466562.1605325,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "stats.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1605384,
+            "modificationDate" : 1591466562.1605399,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "strapi.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1605458,
+            "modificationDate" : 1591466562.1605473,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "styles.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1605532,
+            "modificationDate" : 1591466562.1605546,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "us.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1605606,
+            "modificationDate" : 1591466562.1605623,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "v.redd.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160568,
+            "modificationDate" : 1591466562.1605697,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wh.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1605754,
+            "modificationDate" : 1591466562.160577,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.np.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160583,
+            "modificationDate" : 1591466562.1605844,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.reddit-stream.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1606066,
+            "modificationDate" : 1591466562.160609,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160616,
+            "modificationDate" : 1591466562.160617,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditblog.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1606233,
+            "modificationDate" : 1591466562.160625,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditgifts.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1606307,
+            "modificationDate" : 1591466562.1606324,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditinc.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160638,
+            "modificationDate" : 1591466562.1606398,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160646,
+            "modificationDate" : 1591466562.1606472,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redditstatic.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1606543,
+            "modificationDate" : 1591466562.1606555,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pinpages.alwaysdata.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160662,
+            "modificationDate" : 1591466562.1606634,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "allotalk.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1606717,
+            "modificationDate" : 1591466562.1606734,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tiktok.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1606796,
+            "modificationDate" : 1591466562.1606812,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tiktokcdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1606872,
+            "modificationDate" : 1591466562.1606884,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "musical.ly"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1606946,
+            "modificationDate" : 1591466562.160696,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "muscdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.160702,
+            "modificationDate" : 1591466562.1607032,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tiktokv.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1607096,
+            "modificationDate" : 1591466562.1607115,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tiktokcdn-com.akamaized.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1607172,
+            "modificationDate" : 1591466562.160719,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mbga.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1607249,
+            "modificationDate" : 1591466562.1607265,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mixi.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1607327,
+            "modificationDate" : 1591466562.1607342,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mixch.tv"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1591466562.1607406,
+            "modificationDate" : 1591466562.160742,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lobi.co"
+        }    ]
+}
