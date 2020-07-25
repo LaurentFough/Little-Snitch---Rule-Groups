@@ -1,0 +1,347 @@
+{
+	"description" : " Date: 25 July 2020 02:11:52 (UTC) ,  Number of unique domains: 60,041 , ",
+	"name" : "stevenblack6.lsrules",
+	"rules" :  [
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.511668,
+            "modificationDate" : 1595692828.5116735,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "slottyvegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5116882,
+            "modificationDate" : 1595692828.5116918,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "fortunelegends.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.511705,
+            "modificationDate" : 1595692828.511708,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "promotions.betsafe.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5117204,
+            "modificationDate" : 1595692828.5117238,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "casinowinner.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5117369,
+            "modificationDate" : 1595692828.5117402,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "turbico.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5117528,
+            "modificationDate" : 1595692828.5117567,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "suomikasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.511769,
+            "modificationDate" : 1595692828.5117724,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "templenile.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5117857,
+            "modificationDate" : 1595692828.511789,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "stakes.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5118012,
+            "modificationDate" : 1595692828.5118058,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "jackpotvillage.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5118182,
+            "modificationDate" : 1595692828.5118213,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "prontocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.511834,
+            "modificationDate" : 1595692828.511837,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nopeampi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5118494,
+            "modificationDate" : 1595692828.5118527,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "fi.888casino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5118651,
+            "modificationDate" : 1595692828.5118685,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "karhukasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5118804,
+            "modificationDate" : 1595692828.5118837,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "start.duelz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5118966,
+            "modificationDate" : 1595692828.5119002,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "promotion.eurolotto.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5119123,
+            "modificationDate" : 1595692828.5119157,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "hypercasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.511928,
+            "modificationDate" : 1595692828.5119312,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wishmaker.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5119448,
+            "modificationDate" : 1595692828.511948,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "kasinot.fi"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5119617,
+            "modificationDate" : 1595692828.511965,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tipsport.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.511977,
+            "modificationDate" : 1595692828.5119803,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tipsport.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.511993,
+            "modificationDate" : 1595692828.5119963,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ifortuna.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5120084,
+            "modificationDate" : 1595692828.5120118,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ifortuna.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5120242,
+            "modificationDate" : 1595692828.5120275,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sazka.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.51204,
+            "modificationDate" : 1595692828.512043,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sazka.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5120552,
+            "modificationDate" : 1595692828.5120583,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "chance.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5120707,
+            "modificationDate" : 1595692828.512074,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.chance.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5120862,
+            "modificationDate" : 1595692828.5120895,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "maxitip.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5121017,
+            "modificationDate" : 1595692828.512105,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.maxitip.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5121574,
+            "modificationDate" : 1595692828.5121622,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "synottip.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5121768,
+            "modificationDate" : 1595692828.5121799,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.synottip.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5121925,
+            "modificationDate" : 1595692828.5121958,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sport.synottip.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5122085,
+            "modificationDate" : 1595692828.5122118,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "poker.synottip.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.512224,
+            "modificationDate" : 1595692828.512227,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "casino.synottip.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.51224,
+            "modificationDate" : 1595692828.512243,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pokerstars.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5122557,
+            "modificationDate" : 1595692828.512259,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pokerstars.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5122721,
+            "modificationDate" : 1595692828.5122755,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "partypoker.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5122879,
+            "modificationDate" : 1595692828.512291,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.partypoker.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1595692828.5123065,
+            "modificationDate" : 1595692828.51231,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casino.org"
+        }    ]
+}
