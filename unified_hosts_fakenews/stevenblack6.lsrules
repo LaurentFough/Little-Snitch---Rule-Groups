@@ -1,0 +1,617 @@
+{
+	"description" : " Date: 14 August 2020 14:53:53 (UTC) ,  Number of unique domains: 60,071 , ",
+	"name" : "stevenblack6.lsrules",
+	"rules" :  [
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.578918,
+            "modificationDate" : 1597507218.5789227,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.superstation95.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.578937,
+            "modificationDate" : 1597507218.57894,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.surrealscoop.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.578952,
+            "modificationDate" : 1597507218.5789552,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.survivopedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5789676,
+            "modificationDate" : 1597507218.5789707,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.teaparty.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5789833,
+            "modificationDate" : 1597507218.5789864,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.theamericanmirror.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5789988,
+            "modificationDate" : 1597507218.579002,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.theavocadonews.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5790138,
+            "modificationDate" : 1597507218.579017,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thebeaverton.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5790298,
+            "modificationDate" : 1597507218.579033,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.theblaze.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5790448,
+            "modificationDate" : 1597507218.5790482,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thecommonsenseshow.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5790606,
+            "modificationDate" : 1597507218.5790637,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thecontroversialfiles.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5790758,
+            "modificationDate" : 1597507218.5790787,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thedailybell.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5790906,
+            "modificationDate" : 1597507218.5790937,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thedailymash.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579106,
+            "modificationDate" : 1597507218.5791092,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thedailysheeple.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5791214,
+            "modificationDate" : 1597507218.5791245,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.theearthchild.co.za"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5791366,
+            "modificationDate" : 1597507218.57914,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.theeventchronicle.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5791519,
+            "modificationDate" : 1597507218.5791547,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thegatewaypundit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5791667,
+            "modificationDate" : 1597507218.5791698,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thelibertybeacon.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579182,
+            "modificationDate" : 1597507218.5791845,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.themoralofthestory.us"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5791967,
+            "modificationDate" : 1597507218.5791998,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thenewamerican.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5792117,
+            "modificationDate" : 1597507218.5792148,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thenewsnerd.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579227,
+            "modificationDate" : 1597507218.57923,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.theoccidentalobserver.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5792642,
+            "modificationDate" : 1597507218.5792677,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thepoke.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5792801,
+            "modificationDate" : 1597507218.5792832,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thepoliticalinsider.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5792954,
+            "modificationDate" : 1597507218.5792983,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.therebel.media"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5793102,
+            "modificationDate" : 1597507218.579313,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.therussophile.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5793252,
+            "modificationDate" : 1597507218.5793283,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.theshovel.com.au"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.57934,
+            "modificationDate" : 1597507218.579343,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thesleuthjournal.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5793552,
+            "modificationDate" : 1597507218.579358,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thespoof.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579443,
+            "modificationDate" : 1597507218.5794468,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.theunrealtimes.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5794592,
+            "modificationDate" : 1597507218.579462,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tmn.today"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5794744,
+            "modificationDate" : 1597507218.5794775,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.topinfopost.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5794897,
+            "modificationDate" : 1597507218.5794926,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.trueactivist.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5795052,
+            "modificationDate" : 1597507218.5795083,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.trunews.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5795205,
+            "modificationDate" : 1597507218.5795236,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.truth-out.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5795357,
+            "modificationDate" : 1597507218.5795395,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.truthandaction.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5795515,
+            "modificationDate" : 1597507218.5795546,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.truthdig.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579567,
+            "modificationDate" : 1597507218.5795696,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.unz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579582,
+            "modificationDate" : 1597507218.5795848,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.usanewsflash.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579597,
+            "modificationDate" : 1597507218.5795999,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.usanewsinsider.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5796123,
+            "modificationDate" : 1597507218.5796149,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.usasupreme.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579627,
+            "modificationDate" : 1597507218.5796301,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.uspoliticslive.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579642,
+            "modificationDate" : 1597507218.5796452,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.vaccinationcouncil.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5796573,
+            "modificationDate" : 1597507218.5796602,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.vdare.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5796723,
+            "modificationDate" : 1597507218.5796754,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.veteransnewsnow.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5796874,
+            "modificationDate" : 1597507218.5796902,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.veteranstoday.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5797026,
+            "modificationDate" : 1597507218.5797052,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.viralthread.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5797176,
+            "modificationDate" : 1597507218.5797205,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.voltairenet.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5797324,
+            "modificationDate" : 1597507218.5797355,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.wakingtimes.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579748,
+            "modificationDate" : 1597507218.5797505,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.washingtonsblog.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5797627,
+            "modificationDate" : 1597507218.5797658,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.webdaily.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5797777,
+            "modificationDate" : 1597507218.579781,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.wellaware1.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5797932,
+            "modificationDate" : 1597507218.579796,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.westernjournalism.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579808,
+            "modificationDate" : 1597507218.5798109,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.whatdoesitmean.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579823,
+            "modificationDate" : 1597507218.5798259,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.whatreallyhappened.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5798383,
+            "modificationDate" : 1597507218.5798414,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.wnd.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5798533,
+            "modificationDate" : 1597507218.5798562,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.wonkie.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5799077,
+            "modificationDate" : 1597507218.5799115,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.worldnewspolitics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5799236,
+            "modificationDate" : 1597507218.5799267,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.yesimright.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579939,
+            "modificationDate" : 1597507218.579942,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.youngcons.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5799537,
+            "modificationDate" : 1597507218.5799568,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.zambianobserver.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.579969,
+            "modificationDate" : 1597507218.579972,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.zeppfeed.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5799842,
+            "modificationDate" : 1597507218.5799873,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.zerohedge.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5799992,
+            "modificationDate" : 1597507218.5800023,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.zootfeed.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5800152,
+            "modificationDate" : 1597507218.5800183,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yogurt.news"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5800304,
+            "modificationDate" : 1597507218.5800335,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yournationnews.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5800455,
+            "modificationDate" : 1597507218.5800483,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yournewswire.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5800607,
+            "modificationDate" : 1597507218.5800638,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "youtubecensorship.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1597507218.5800757,
+            "modificationDate" : 1597507218.5800788,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zombie.news "
+        }    ]
+}
