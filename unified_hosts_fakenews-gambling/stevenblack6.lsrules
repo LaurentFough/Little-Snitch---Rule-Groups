@@ -1,11 +1,4169 @@
 {
-	"description" : " Date: 26 August 2020 00:51:32 (UTC) ,  Number of unique domains: 60,157 , ",
+	"description" : " Date: 03 September 2020 02:00:55 (UTC) ,  Number of unique domains: 60,619 , ",
 	"name" : "stevenblack6.lsrules",
 	"rules" :  [
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2430859,
-            "modificationDate" : 1598716866.2430892,
+            "creationDate" : 1599321663.958781,
+            "modificationDate" : 1599321663.958786,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "cheekywin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9588003,
+            "modificationDate" : 1599321663.9588032,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "cherrycasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9588158,
+            "modificationDate" : 1599321663.9588192,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "codeta.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9588308,
+            "modificationDate" : 1599321663.958834,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "coolbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9588454,
+            "modificationDate" : 1599321663.9588482,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "cozino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9588585,
+            "modificationDate" : 1599321663.9588618,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "dealerscasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9588737,
+            "modificationDate" : 1599321663.9588768,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "diamond7casino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.958889,
+            "modificationDate" : 1599321663.958892,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "dreamjackpot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9589036,
+            "modificationDate" : 1599321663.9589076,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "dreamvegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9589198,
+            "modificationDate" : 1599321663.9589221,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "dreamz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9589345,
+            "modificationDate" : 1599321663.9589376,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "duelz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9589498,
+            "modificationDate" : 1599321663.9589527,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "dunder.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9589658,
+            "modificationDate" : 1599321663.9589689,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "esportsbetting.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9589808,
+            "modificationDate" : 1599321663.9589837,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "euroslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9589953,
+            "modificationDate" : 1599321663.9589987,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "fansbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9590113,
+            "modificationDate" : 1599321663.9590147,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "fikacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9590266,
+            "modificationDate" : 1599321663.9590294,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "flumecasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9590425,
+            "modificationDate" : 1599321663.9590456,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "folkeautomaten.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9590578,
+            "modificationDate" : 1599321663.959061,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "frankcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959073,
+            "modificationDate" : 1599321663.9590762,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "frankfred.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959088,
+            "modificationDate" : 1599321663.9590912,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "freakyvegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9591036,
+            "modificationDate" : 1599321663.9591064,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "fruitycasa.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9591184,
+            "modificationDate" : 1599321663.9591212,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "fsport.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9591346,
+            "modificationDate" : 1599321663.9591374,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "funcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9591498,
+            "modificationDate" : 1599321663.959153,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "gate777.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9591646,
+            "modificationDate" : 1599321663.9591677,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "genesiscasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9591799,
+            "modificationDate" : 1599321663.9591827,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "getlucky.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9591954,
+            "modificationDate" : 1599321663.9591982,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "glimmercasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9592948,
+            "modificationDate" : 1599321663.9592996,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "goliathcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959314,
+            "modificationDate" : 1599321663.959317,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "hajper.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9593284,
+            "modificationDate" : 1599321663.9593315,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "hellocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9593432,
+            "modificationDate" : 1599321663.9593456,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "heyspin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9593568,
+            "modificationDate" : 1599321663.9593596,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "highroller.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959372,
+            "modificationDate" : 1599321663.959375,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "hopa.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959387,
+            "modificationDate" : 1599321663.9593902,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "igame.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959403,
+            "modificationDate" : 1599321663.9594061,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "igame.se"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9594178,
+            "modificationDate" : 1599321663.959421,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ikibu.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959434,
+            "modificationDate" : 1599321663.9594371,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "instacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959449,
+            "modificationDate" : 1599321663.959452,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "intercasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9594638,
+            "modificationDate" : 1599321663.9594667,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "johnslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9594793,
+            "modificationDate" : 1599321663.9594827,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "justcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959495,
+            "modificationDate" : 1599321663.9594977,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "kaboo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9595096,
+            "modificationDate" : 1599321663.959513,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "kaiserslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9595253,
+            "modificationDate" : 1599321663.9595282,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "karamba.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9595404,
+            "modificationDate" : 1599321663.9595432,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "karjalakasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9595568,
+            "modificationDate" : 1599321663.9595602,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "karlcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9595723,
+            "modificationDate" : 1599321663.9595754,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lapalingo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9595876,
+            "modificationDate" : 1599321663.9595904,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "legolas.bet"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9596026,
+            "modificationDate" : 1599321663.9596057,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "leovegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9596176,
+            "modificationDate" : 1599321663.9596207,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "letsbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9596324,
+            "modificationDate" : 1599321663.9596355,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "livelounge.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9596474,
+            "modificationDate" : 1599321663.9596512,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lsbet690.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9596634,
+            "modificationDate" : 1599321663.9596665,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "luckland.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9596782,
+            "modificationDate" : 1599321663.9596813,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "luckycasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959694,
+            "modificationDate" : 1599321663.9596963,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "luckydino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9597092,
+            "modificationDate" : 1599321663.9597123,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "luckyland.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9597244,
+            "modificationDate" : 1599321663.9597275,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "luckylouis.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9597797,
+            "modificationDate" : 1599321663.959784,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "luckymeslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9597955,
+            "modificationDate" : 1599321663.9597983,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "luckyniki.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9598095,
+            "modificationDate" : 1599321663.9598122,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "luckywinslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9598243,
+            "modificationDate" : 1599321663.9598274,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "magicred.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9598396,
+            "modificationDate" : 1599321663.9598424,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "malinasports.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9598544,
+            "modificationDate" : 1599321663.9598577,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mamamiabingo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9598694,
+            "modificationDate" : 1599321663.9598727,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mansionbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9598856,
+            "modificationDate" : 1599321663.9598885,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mariacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9599004,
+            "modificationDate" : 1599321663.9599044,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "metalcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9599168,
+            "modificationDate" : 1599321663.95992,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "miamidicecasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9599319,
+            "modificationDate" : 1599321663.9599347,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "miamidice.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9599469,
+            "modificationDate" : 1599321663.95995,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mobil6000.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9599626,
+            "modificationDate" : 1599321663.9599657,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mobilautomaten.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9599776,
+            "modificationDate" : 1599321663.9599805,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mobilebet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.959993,
+            "modificationDate" : 1599321663.959996,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mobocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9600077,
+            "modificationDate" : 1599321663.960011,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "montecarlocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960023,
+            "modificationDate" : 1599321663.9600258,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mr.bet"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960039,
+            "modificationDate" : 1599321663.960042,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mrgreen.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9600542,
+            "modificationDate" : 1599321663.9600573,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mrmega.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9600692,
+            "modificationDate" : 1599321663.9600723,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mrmobi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9600844,
+            "modificationDate" : 1599321663.9600875,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mrplay.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9600997,
+            "modificationDate" : 1599321663.9601023,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mrslot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9601305,
+            "modificationDate" : 1599321663.960134,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mrwin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9601474,
+            "modificationDate" : 1599321663.9601505,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mychance.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9601626,
+            "modificationDate" : 1599321663.9601657,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "n1casino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960178,
+            "modificationDate" : 1599321663.9601808,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nextcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960193,
+            "modificationDate" : 1599321663.960196,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nightrush.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960208,
+            "modificationDate" : 1599321663.960211,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ninjacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9602225,
+            "modificationDate" : 1599321663.9602253,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "noaccountcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9602726,
+            "modificationDate" : 1599321663.960276,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "norgesautomaten.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960288,
+            "modificationDate" : 1599321663.9602914,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "norgesspill.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960303,
+            "modificationDate" : 1599321663.9603062,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "norskeautomater.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9603183,
+            "modificationDate" : 1599321663.9603212,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "norskespilleautomater.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960333,
+            "modificationDate" : 1599321663.9603364,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nyspins.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9603481,
+            "modificationDate" : 1599321663.9603512,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "olaspill.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9603631,
+            "modificationDate" : 1599321663.9603662,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "olybet.eu"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960379,
+            "modificationDate" : 1599321663.9603815,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "omniacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9603949,
+            "modificationDate" : 1599321663.9603977,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ovocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9604096,
+            "modificationDate" : 1599321663.9604125,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pinnacle.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9604247,
+            "modificationDate" : 1599321663.9604278,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "piratespin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9604394,
+            "modificationDate" : 1599321663.9604425,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "playclub.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9604557,
+            "modificationDate" : 1599321663.9604585,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "playfrank.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9604704,
+            "modificationDate" : 1599321663.9604735,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "playgrandcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960486,
+            "modificationDate" : 1599321663.960489,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "playojo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9605012,
+            "modificationDate" : 1599321663.9605043,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pocketvegas.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9605167,
+            "modificationDate" : 1599321663.96052,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "potsofluck.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9605327,
+            "modificationDate" : 1599321663.9605355,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "primeslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9605477,
+            "modificationDate" : 1599321663.96055,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "promotions.epic.partners"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9605622,
+            "modificationDate" : 1599321663.960565,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "queenvegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960577,
+            "modificationDate" : 1599321663.9605803,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "redkings.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960592,
+            "modificationDate" : 1599321663.960595,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "redspins.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960607,
+            "modificationDate" : 1599321663.9606094,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ridika.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9606228,
+            "modificationDate" : 1599321663.9606256,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "rizk.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960638,
+            "modificationDate" : 1599321663.960641,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "rolla.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9606533,
+            "modificationDate" : 1599321663.9606564,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "royalpanda.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9606693,
+            "modificationDate" : 1599321663.960672,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "royalslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9606843,
+            "modificationDate" : 1599321663.9606872,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "royrichie.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9606988,
+            "modificationDate" : 1599321663.9607253,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "rush777.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9607396,
+            "modificationDate" : 1599321663.9607427,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "scandibet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9607544,
+            "modificationDate" : 1599321663.9607577,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "scasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9607701,
+            "modificationDate" : 1599321663.9607732,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sirjackpot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9607852,
+            "modificationDate" : 1599321663.9607885,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "slotplanet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9608002,
+            "modificationDate" : 1599321663.9608033,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "slotsheaven.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9608161,
+            "modificationDate" : 1599321663.9608192,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "slotsino.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9608316,
+            "modificationDate" : 1599321663.9608343,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "slotsmagic.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9608464,
+            "modificationDate" : 1599321663.960849,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "slotsons.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960862,
+            "modificationDate" : 1599321663.9608653,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "slotv.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9608765,
+            "modificationDate" : 1599321663.9608798,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sloty.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960892,
+            "modificationDate" : 1599321663.960895,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "snabbare.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9609067,
+            "modificationDate" : 1599321663.96091,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "speedybet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9609227,
+            "modificationDate" : 1599321663.960925,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "spela.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9609375,
+            "modificationDate" : 1599321663.9609406,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "spinit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9609525,
+            "modificationDate" : 1599321663.9609556,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "spinland.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9609675,
+            "modificationDate" : 1599321663.9609704,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "spinprincess.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9609823,
+            "modificationDate" : 1599321663.9609861,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "spinrider.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.960999,
+            "modificationDate" : 1599321663.9610016,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "spinson.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961014,
+            "modificationDate" : 1599321663.9610171,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "spinstation.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9610293,
+            "modificationDate" : 1599321663.9610324,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "spinzilla.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9610445,
+            "modificationDate" : 1599321663.9610476,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "storspelare.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961059,
+            "modificationDate" : 1599321663.9610624,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "storspiller.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9610744,
+            "modificationDate" : 1599321663.9610775,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "surf.casino"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9610908,
+            "modificationDate" : 1599321663.9610937,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sveacasino.se"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961118,
+            "modificationDate" : 1599321663.9611213,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "svedalacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961133,
+            "modificationDate" : 1599321663.9611359,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "swedencasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9611483,
+            "modificationDate" : 1599321663.9611516,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "swedencasino.se"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9611633,
+            "modificationDate" : 1599321663.9611661,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sverigeautomaten.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9612055,
+            "modificationDate" : 1599321663.9612088,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sverigecasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9612215,
+            "modificationDate" : 1599321663.961224,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sverigekronan.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9612362,
+            "modificationDate" : 1599321663.961239,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "thrills.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9612505,
+            "modificationDate" : 1599321663.9612532,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "toto2.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9612646,
+            "modificationDate" : 1599321663.9612677,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ttr.casino"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9612794,
+            "modificationDate" : 1599321663.9612825,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vegashero.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961295,
+            "modificationDate" : 1599321663.961298,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "verajohn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9613106,
+            "modificationDate" : 1599321663.9613137,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "videoslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9613264,
+            "modificationDate" : 1599321663.961329,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vikingslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9613416,
+            "modificationDate" : 1599321663.9613445,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "viks.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9613566,
+            "modificationDate" : 1599321663.9613595,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wildjackpots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961372,
+            "modificationDate" : 1599321663.9613748,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vinnarum.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9613876,
+            "modificationDate" : 1599321663.9613903,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wixstars.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9614024,
+            "modificationDate" : 1599321663.9614055,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "voodoodreams.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9614174,
+            "modificationDate" : 1599321663.9614205,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wunderino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9614325,
+            "modificationDate" : 1599321663.9614356,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yakocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9614477,
+            "modificationDate" : 1599321663.9614508,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yeticasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9614644,
+            "modificationDate" : 1599321663.961467,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yobetit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961479,
+            "modificationDate" : 1599321663.9614818,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zodiacu.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961494,
+            "modificationDate" : 1599321663.9614968,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.21bet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9615095,
+            "modificationDate" : 1599321663.961512,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.21casino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961524,
+            "modificationDate" : 1599321663.961527,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.21prive.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9615388,
+            "modificationDate" : 1599321663.9615417,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.22bet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9615545,
+            "modificationDate" : 1599321663.9615579,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.22betpartners.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9615693,
+            "modificationDate" : 1599321663.9615724,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.24bettle.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9615846,
+            "modificationDate" : 1599321663.9615877,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.666casino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9615996,
+            "modificationDate" : 1599321663.9616024,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.777.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9616144,
+            "modificationDate" : 1599321663.9616175,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.7godscasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9616292,
+            "modificationDate" : 1599321663.9616325,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.7jackpots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9616702,
+            "modificationDate" : 1599321663.9616735,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.agentspinner.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961685,
+            "modificationDate" : 1599321663.9616878,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ahacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9616992,
+            "modificationDate" : 1599321663.9617019,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ahtigames.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9617126,
+            "modificationDate" : 1599321663.9617157,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.alfcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9617279,
+            "modificationDate" : 1599321663.9617307,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.barbadoscasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9617426,
+            "modificationDate" : 1599321663.9617457,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.b-bets.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961758,
+            "modificationDate" : 1599321663.961761,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bertil.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9617734,
+            "modificationDate" : 1599321663.9617765,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bestcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9617891,
+            "modificationDate" : 1599321663.9617922,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.betfinal.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9618037,
+            "modificationDate" : 1599321663.9618068,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.betive.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9618196,
+            "modificationDate" : 1599321663.9618225,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.betser.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9618344,
+            "modificationDate" : 1599321663.9618373,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.betspawn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9618502,
+            "modificationDate" : 1599321663.9618535,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.betzest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9618654,
+            "modificationDate" : 1599321663.961868,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bgo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9618807,
+            "modificationDate" : 1599321663.9618835,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bingo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9618955,
+            "modificationDate" : 1599321663.9618988,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bobcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9619105,
+            "modificationDate" : 1599321663.9619138,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bobregister.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9619265,
+            "modificationDate" : 1599321663.9619293,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.buckandbutler.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961941,
+            "modificationDate" : 1599321663.961944,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.campeonbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.961956,
+            "modificationDate" : 1599321663.961959,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.campobet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9619708,
+            "modificationDate" : 1599321663.961974,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.cashiopeia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9619858,
+            "modificationDate" : 1599321663.9619887,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.cashmio.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9620004,
+            "modificationDate" : 1599321663.9620035,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casilando.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9620156,
+            "modificationDate" : 1599321663.962019,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casimba.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9620311,
+            "modificationDate" : 1599321663.962034,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casiniabet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9620461,
+            "modificationDate" : 1599321663.9620492,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinoandfriends.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9620612,
+            "modificationDate" : 1599321663.9620638,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinocalzone.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.962077,
+            "modificationDate" : 1599321663.9620798,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinocruise.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9621174,
+            "modificationDate" : 1599321663.9621212,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinoeuro.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9621332,
+            "modificationDate" : 1599321663.9621363,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinoheroes.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9621487,
+            "modificationDate" : 1599321663.9621515,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinojefe.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.962163,
+            "modificationDate" : 1599321663.9621656,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinoland.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9621768,
+            "modificationDate" : 1599321663.96218,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinolasvegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9621913,
+            "modificationDate" : 1599321663.9621947,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinolasvegas.no"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9622064,
+            "modificationDate" : 1599321663.9622095,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinopop.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.962222,
+            "modificationDate" : 1599321663.962225,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casino-pp.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9622366,
+            "modificationDate" : 1599321663.96224,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinoroom.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9622524,
+            "modificationDate" : 1599321663.9622557,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinostugan.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9622676,
+            "modificationDate" : 1599321663.9622707,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinotown.se"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9622827,
+            "modificationDate" : 1599321663.9622858,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casinsi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9622986,
+            "modificationDate" : 1599321663.9623017,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.casumo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.962314,
+            "modificationDate" : 1599321663.9623168,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.chancehill.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9623291,
+            "modificationDate" : 1599321663.9623322,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.chanz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9623444,
+            "modificationDate" : 1599321663.9623473,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.cheekywin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9623592,
+            "modificationDate" : 1599321663.962362,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.cherrycasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.962375,
+            "modificationDate" : 1599321663.962378,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.codeta.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9623895,
+            "modificationDate" : 1599321663.9623926,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.coolbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9624057,
+            "modificationDate" : 1599321663.962409,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.cozino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9624212,
+            "modificationDate" : 1599321663.9624243,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dealerscasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9624374,
+            "modificationDate" : 1599321663.9624403,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.diamond7casino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9624522,
+            "modificationDate" : 1599321663.9624553,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dreamjackpot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9624681,
+            "modificationDate" : 1599321663.9624715,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dreamvegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.962484,
+            "modificationDate" : 1599321663.962487,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dreamz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9624991,
+            "modificationDate" : 1599321663.9625022,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.duelz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9625142,
+            "modificationDate" : 1599321663.962517,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dunder.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9625292,
+            "modificationDate" : 1599321663.9625323,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.esportsbetting.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9625442,
+            "modificationDate" : 1599321663.9625754,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.euroslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9625895,
+            "modificationDate" : 1599321663.9625924,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fansbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9626038,
+            "modificationDate" : 1599321663.962607,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fikacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9626174,
+            "modificationDate" : 1599321663.9626205,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.flumecasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9626322,
+            "modificationDate" : 1599321663.9626355,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.folkeautomaten.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9626472,
+            "modificationDate" : 1599321663.96265,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.frankcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9626622,
+            "modificationDate" : 1599321663.9626648,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.frankfred.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9626775,
+            "modificationDate" : 1599321663.9626806,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.freakyvegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9626923,
+            "modificationDate" : 1599321663.9626954,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fruitycasa.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9627085,
+            "modificationDate" : 1599321663.9627116,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.fsport.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9627235,
+            "modificationDate" : 1599321663.9627264,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.funcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9627385,
+            "modificationDate" : 1599321663.9627416,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.gate777.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9627533,
+            "modificationDate" : 1599321663.9627566,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.genesiscasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9627695,
+            "modificationDate" : 1599321663.9627724,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.getlucky.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9627843,
+            "modificationDate" : 1599321663.9627874,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.glimmercasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.962799,
+            "modificationDate" : 1599321663.962802,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.goliathcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9628136,
+            "modificationDate" : 1599321663.9628165,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hajper.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9628284,
+            "modificationDate" : 1599321663.962832,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hellocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9628434,
+            "modificationDate" : 1599321663.9628463,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.heyspin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9628577,
+            "modificationDate" : 1599321663.9628608,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.highroller.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9628725,
+            "modificationDate" : 1599321663.9628754,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hopa.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9628875,
+            "modificationDate" : 1599321663.9628904,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.igame.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9629023,
+            "modificationDate" : 1599321663.9629054,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.igame.se"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.962917,
+            "modificationDate" : 1599321663.96292,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ikibu.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9629326,
+            "modificationDate" : 1599321663.9629354,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.instacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9629474,
+            "modificationDate" : 1599321663.9629502,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.intercasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9629622,
+            "modificationDate" : 1599321663.962965,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.johnslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9629767,
+            "modificationDate" : 1599321663.9629796,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.justcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9629915,
+            "modificationDate" : 1599321663.962994,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kaboo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9630303,
+            "modificationDate" : 1599321663.9630337,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kaiserslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9630458,
+            "modificationDate" : 1599321663.963049,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.karjalakasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9630613,
+            "modificationDate" : 1599321663.963064,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.karlcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.963076,
+            "modificationDate" : 1599321663.963079,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.lapalingo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9630907,
+            "modificationDate" : 1599321663.9630938,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.legolas.bet"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9631057,
+            "modificationDate" : 1599321663.9631088,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.leovegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9631207,
+            "modificationDate" : 1599321663.9631236,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.letsbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9631357,
+            "modificationDate" : 1599321663.9631388,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.livelounge.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9631512,
+            "modificationDate" : 1599321663.963154,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.lsbet690.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.963166,
+            "modificationDate" : 1599321663.9631689,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.luckland.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9631808,
+            "modificationDate" : 1599321663.9631836,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.luckycasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9631953,
+            "modificationDate" : 1599321663.9631982,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.luckydino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9632108,
+            "modificationDate" : 1599321663.9632137,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.luckyland.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9632256,
+            "modificationDate" : 1599321663.9632285,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.luckylouis.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.963273,
+            "modificationDate" : 1599321663.9632773,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.luckymeslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.963289,
+            "modificationDate" : 1599321663.963292,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.luckyniki.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.963303,
+            "modificationDate" : 1599321663.963306,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.luckywinslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9633186,
+            "modificationDate" : 1599321663.9633214,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.magicred.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9633334,
+            "modificationDate" : 1599321663.9633362,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.malinasports.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9633477,
+            "modificationDate" : 1599321663.9633505,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mamamiabingo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9633622,
+            "modificationDate" : 1599321663.963365,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mansionbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9633765,
+            "modificationDate" : 1599321663.9633794,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mariacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.963391,
+            "modificationDate" : 1599321663.9633937,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.metalcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9634066,
+            "modificationDate" : 1599321663.9634097,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.miamidicecasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9634206,
+            "modificationDate" : 1599321663.9634237,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.miamidice.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9634347,
+            "modificationDate" : 1599321663.9634378,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mobil6000.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9634483,
+            "modificationDate" : 1599321663.963451,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mobilautomaten.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9634626,
+            "modificationDate" : 1599321663.9634655,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mobilebet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9635062,
+            "modificationDate" : 1599321663.9635098,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mobocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9635217,
+            "modificationDate" : 1599321663.9635248,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.montecarlocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9635367,
+            "modificationDate" : 1599321663.9635396,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mr.bet"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9635518,
+            "modificationDate" : 1599321663.9635546,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mrmega.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9635668,
+            "modificationDate" : 1599321663.9635696,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mrmobi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9635818,
+            "modificationDate" : 1599321663.9635847,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mrplay.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9635966,
+            "modificationDate" : 1599321663.9635997,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mrslot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9636116,
+            "modificationDate" : 1599321663.9636147,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mrwin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9636269,
+            "modificationDate" : 1599321663.9636307,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mychance.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9636428,
+            "modificationDate" : 1599321663.9636457,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.n1casino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9636574,
+            "modificationDate" : 1599321663.9636602,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.nextcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9636722,
+            "modificationDate" : 1599321663.9636748,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.nightrush.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9636872,
+            "modificationDate" : 1599321663.96369,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ninjacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.963702,
+            "modificationDate" : 1599321663.9637048,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.noaccountcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9637165,
+            "modificationDate" : 1599321663.9637196,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.norgesautomaten.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9637318,
+            "modificationDate" : 1599321663.9637346,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.norgesspill.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9637465,
+            "modificationDate" : 1599321663.9637496,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.norskeautomater.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9637618,
+            "modificationDate" : 1599321663.963765,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.norskespilleautomater.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9637764,
+            "modificationDate" : 1599321663.9637792,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.nyspins.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9637911,
+            "modificationDate" : 1599321663.963794,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.olaspill.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9638057,
+            "modificationDate" : 1599321663.9638085,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.olybet.eu"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9638205,
+            "modificationDate" : 1599321663.9638233,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.omniacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9638355,
+            "modificationDate" : 1599321663.9638386,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ovocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.963851,
+            "modificationDate" : 1599321663.9638538,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.piratespin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9638655,
+            "modificationDate" : 1599321663.9638684,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.playclub.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9638803,
+            "modificationDate" : 1599321663.9638832,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.playfrank.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9638948,
+            "modificationDate" : 1599321663.9638977,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.playgrandcasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9639096,
+            "modificationDate" : 1599321663.9639125,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.playojo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9639237,
+            "modificationDate" : 1599321663.963948,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pocketvegas.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9639616,
+            "modificationDate" : 1599321663.9639647,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.potsofluck.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9639766,
+            "modificationDate" : 1599321663.9639797,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.primeslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9639919,
+            "modificationDate" : 1599321663.963995,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.promotions.epic.partners"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964007,
+            "modificationDate" : 1599321663.9640098,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.queenvegas.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9640217,
+            "modificationDate" : 1599321663.9640248,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redkings.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964037,
+            "modificationDate" : 1599321663.9640396,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.redspins.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964052,
+            "modificationDate" : 1599321663.9640548,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ridika.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9640665,
+            "modificationDate" : 1599321663.9640694,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.rizk.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9640822,
+            "modificationDate" : 1599321663.964085,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.rolla.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9640968,
+            "modificationDate" : 1599321663.9641,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.royalslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9641256,
+            "modificationDate" : 1599321663.964129,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.royrichie.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9641402,
+            "modificationDate" : 1599321663.9641433,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.rush777.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9641557,
+            "modificationDate" : 1599321663.9641588,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.scandibet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9641702,
+            "modificationDate" : 1599321663.9641733,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.scasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9641852,
+            "modificationDate" : 1599321663.964188,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sirjackpot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9642,
+            "modificationDate" : 1599321663.9642026,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.slotplanet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9642146,
+            "modificationDate" : 1599321663.9642184,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.slotsheaven.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.96423,
+            "modificationDate" : 1599321663.964233,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.slotsino.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9642444,
+            "modificationDate" : 1599321663.9642472,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.slotsmagic.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9642594,
+            "modificationDate" : 1599321663.9642625,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.slotsons.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9642742,
+            "modificationDate" : 1599321663.964277,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.slotv.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9642885,
+            "modificationDate" : 1599321663.9642913,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sloty.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964303,
+            "modificationDate" : 1599321663.9643059,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.snabbare.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9643188,
+            "modificationDate" : 1599321663.9643219,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.speedybet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9643333,
+            "modificationDate" : 1599321663.9643364,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.spela.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9643483,
+            "modificationDate" : 1599321663.9643514,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.spinit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964363,
+            "modificationDate" : 1599321663.9643662,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.spinland.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9643772,
+            "modificationDate" : 1599321663.9643798,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.spinprincess.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9644406,
+            "modificationDate" : 1599321663.9644442,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.spinrider.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964456,
+            "modificationDate" : 1599321663.964459,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.spinson.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964471,
+            "modificationDate" : 1599321663.964474,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.spinstation.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9644856,
+            "modificationDate" : 1599321663.9644885,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.spinzilla.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9645004,
+            "modificationDate" : 1599321663.9645035,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.storspelare.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9645152,
+            "modificationDate" : 1599321663.9645183,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.storspiller.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9645302,
+            "modificationDate" : 1599321663.964533,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.surf.casino"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9645455,
+            "modificationDate" : 1599321663.9645483,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sveacasino.se"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964561,
+            "modificationDate" : 1599321663.9645636,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.svedalacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9645755,
+            "modificationDate" : 1599321663.9645782,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.swedencasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.96459,
+            "modificationDate" : 1599321663.964593,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.swedencasino.se"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9646049,
+            "modificationDate" : 1599321663.964608,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sverigeautomaten.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.96462,
+            "modificationDate" : 1599321663.9646225,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sverigecasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9646347,
+            "modificationDate" : 1599321663.9646375,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sverigekronan.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9646494,
+            "modificationDate" : 1599321663.9646523,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.thrills.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964664,
+            "modificationDate" : 1599321663.9646668,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.toto2.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9646788,
+            "modificationDate" : 1599321663.9646816,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.ttr.casino"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9646943,
+            "modificationDate" : 1599321663.9646974,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.vegashero.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964709,
+            "modificationDate" : 1599321663.964712,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.verajohn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9647233,
+            "modificationDate" : 1599321663.9647262,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.videoslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964738,
+            "modificationDate" : 1599321663.9647405,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.vikingslots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9647524,
+            "modificationDate" : 1599321663.9647555,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.viks.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964767,
+            "modificationDate" : 1599321663.9647698,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.wildjackpots.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9647822,
+            "modificationDate" : 1599321663.964785,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.vinnarum.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964797,
+            "modificationDate" : 1599321663.9647996,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.wixstars.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9648116,
+            "modificationDate" : 1599321663.9648144,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.voodoodreams.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9648263,
+            "modificationDate" : 1599321663.9648292,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.wunderino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9648411,
+            "modificationDate" : 1599321663.9648438,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.yakocasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9648793,
+            "modificationDate" : 1599321663.9648826,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.yeticasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964895,
+            "modificationDate" : 1599321663.9648979,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.yobetit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9649098,
+            "modificationDate" : 1599321663.964913,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.zodiacu.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9649267,
+            "modificationDate" : 1599321663.9649298,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nationale-loterij.be"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9649417,
+            "modificationDate" : 1599321663.9649446,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "e-lotto.be"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9649568,
+            "modificationDate" : 1599321663.96496,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "loterie-nationale.be"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964972,
+            "modificationDate" : 1599321663.9649749,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "loterie.lu"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.964987,
+            "modificationDate" : 1599321663.96499,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "e-loterie.ma"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9650016,
+            "modificationDate" : 1599321663.9650052,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "loterie.ma"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965017,
+            "modificationDate" : 1599321663.96502,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "eurobet.bg"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9650316,
+            "modificationDate" : 1599321663.9650347,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nostrabet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9650466,
+            "modificationDate" : 1599321663.9650493,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "efirbet.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965062,
+            "modificationDate" : 1599321663.965065,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "7777.bg"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9650772,
+            "modificationDate" : 1599321663.96508,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "toto.bg"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965092,
+            "modificationDate" : 1599321663.9650946,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lutrija.hr"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9651067,
+            "modificationDate" : 1599321663.9651098,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "klasselotteriet.dk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9651217,
+            "modificationDate" : 1599321663.9651246,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9651375,
+            "modificationDate" : 1599321663.9651403,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto24.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9651523,
+            "modificationDate" : 1599321663.9651554,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto.gmx.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9651668,
+            "modificationDate" : 1599321663.9651697,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto.web.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9651814,
+            "modificationDate" : 1599321663.9651845,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "dielottozahlende.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9651966,
+            "modificationDate" : 1599321663.9651995,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tipp24.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9652112,
+            "modificationDate" : 1599321663.9652143,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "westlotto.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9652274,
+            "modificationDate" : 1599321663.96523,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lottoland.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965242,
+            "modificationDate" : 1599321663.9652448,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto-thueringen.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9652565,
+            "modificationDate" : 1599321663.9652596,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "thelotter.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9652712,
+            "modificationDate" : 1599321663.965274,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lottohelden.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9652855,
+            "modificationDate" : 1599321663.9652886,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto-sh.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9652996,
+            "modificationDate" : 1599321663.9653027,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "faber.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965351,
+            "modificationDate" : 1599321663.9653544,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto-berlin.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9653666,
+            "modificationDate" : 1599321663.9653697,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "gambling.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9653814,
+            "modificationDate" : 1599321663.9653845,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "opap.gr"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9653964,
+            "modificationDate" : 1599321663.9653995,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto.is"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9654117,
+            "modificationDate" : 1599321663.9654143,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "szerencsejatek.hu"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9654264,
+            "modificationDate" : 1599321663.9654293,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "multilotto.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965441,
+            "modificationDate" : 1599321663.9654438,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "szuperlotto.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9654558,
+            "modificationDate" : 1599321663.9654586,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lottery.ie"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9654717,
+            "modificationDate" : 1599321663.9654746,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "national-lottery.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9654863,
+            "modificationDate" : 1599321663.9654894,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "latloto.lv"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965501,
+            "modificationDate" : 1599321663.965504,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "loto.mk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9655159,
+            "modificationDate" : 1599321663.9655185,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lutrija.co.me"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965531,
+            "modificationDate" : 1599321663.965534,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "postcodeloterij.nl"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9655457,
+            "modificationDate" : 1599321663.9655485,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nederlandseloterij.nl"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965561,
+            "modificationDate" : 1599321663.9655633,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "statsloterij.nederlandseloterij.nl"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965575,
+            "modificationDate" : 1599321663.9655778,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto.pl"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965589,
+            "modificationDate" : 1599321663.9655912,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "multipasko.pl"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9656022,
+            "modificationDate" : 1599321663.9656048,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "megalotto.pl"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9656165,
+            "modificationDate" : 1599321663.9656188,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto-centrum.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9656305,
+            "modificationDate" : 1599321663.965633,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "jogossantacasa.pt"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965643,
+            "modificationDate" : 1599321663.9656458,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "loto.ro"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9656572,
+            "modificationDate" : 1599321663.96566,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "stoloto.ru"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965671,
+            "modificationDate" : 1599321663.9656734,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lutrija.rs"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9656847,
+            "modificationDate" : 1599321663.9656875,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tipos.sk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9656985,
+            "modificationDate" : 1599321663.9657016,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "etipos.sk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9657118,
+            "modificationDate" : 1599321663.9657147,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "loterija.si"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9657247,
+            "modificationDate" : 1599321663.965727,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "eloterija.si"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965737,
+            "modificationDate" : 1599321663.9657395,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "e-stave.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9657493,
+            "modificationDate" : 1599321663.9657521,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "loteriasyapuestas.es"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9657972,
+            "modificationDate" : 1599321663.9658008,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "juegos.loteriasyapuestas.es"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9658115,
+            "modificationDate" : 1599321663.965814,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "msl.ua"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9658263,
+            "modificationDate" : 1599321663.9658294,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "healthlottery.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9658406,
+            "modificationDate" : 1599321663.9658432,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965854,
+            "modificationDate" : 1599321663.9658566,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "bet.hkjc.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9658668,
+            "modificationDate" : 1599321663.9658697,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pais.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9658792,
+            "modificationDate" : 1599321663.9658825,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "takarakuji-official.jp"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9658926,
+            "modificationDate" : 1599321663.9658954,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lldj.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9659069,
+            "modificationDate" : 1599321663.9659095,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "macau-slot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9659405,
+            "modificationDate" : 1599321663.9659452,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "galacasino.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9659564,
+            "modificationDate" : 1599321663.9659588,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "cashsweep.com.my"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9659693,
+            "modificationDate" : 1599321663.9659722,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "magnum4d.my"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.965983,
+            "modificationDate" : 1599321663.9659858,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "damacai.com.my"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9659963,
+            "modificationDate" : 1599321663.9659986,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sportstoto.com.my"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9660091,
+            "modificationDate" : 1599321663.9660122,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "online.singaporepools.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9660237,
+            "modificationDate" : 1599321663.9660263,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotterien.at"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9660368,
+            "modificationDate" : 1599321663.9660397,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nlotto.co.kr"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9660513,
+            "modificationDate" : 1599321663.966054,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "nlb.lk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.966065,
+            "modificationDate" : 1599321663.966068,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "dlb.lk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9660792,
+            "modificationDate" : 1599321663.9660823,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "taiwanlottery.com.tw"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9660947,
+            "modificationDate" : 1599321663.9660978,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotto.mthai.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.966109,
+            "modificationDate" : 1599321663.966112,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mpi.gov.tr"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9661236,
+            "modificationDate" : 1599321663.966126,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lotoquebec.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9661388,
+            "modificationDate" : 1599321663.9661417,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "loteries.lotoquebec.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9661534,
+            "modificationDate" : 1599321663.9661565,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "espacejeux.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9661682,
+            "modificationDate" : 1599321663.966171,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "portail.lotoquebec.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.966183,
+            "modificationDate" : 1599321663.9661858,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "olg.ca"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9661984,
+            "modificationDate" : 1599321663.9662013,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "home.olg.ca"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9662883,
+            "modificationDate" : 1599321663.9662938,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lottery.olg.ca"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9663076,
+            "modificationDate" : 1599321663.9663115,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "proline.ca"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.966323,
+            "modificationDate" : 1599321663.966327,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "olgslotsandcasinos.ca"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9663396,
+            "modificationDate" : 1599321663.966343,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "playolg.ca"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9663546,
+            "modificationDate" : 1599321663.966358,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "cgaming.olg.ca"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9663703,
+            "modificationDate" : 1599321663.9663734,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "lottomax.ca"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1599321663.9663851,
+            "modificationDate" : 1599321663.9663882,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -13,8 +4171,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243096,
-            "modificationDate" : 1598716866.2430975,
+            "creationDate" : 1599321663.9664009,
+            "modificationDate" : 1599321663.9664037,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -22,8 +4180,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243104,
-            "modificationDate" : 1598716866.2431056,
+            "creationDate" : 1599321663.9664156,
+            "modificationDate" : 1599321663.9664185,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -31,8 +4189,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2431116,
-            "modificationDate" : 1598716866.2431133,
+            "creationDate" : 1599321663.9664311,
+            "modificationDate" : 1599321663.9664342,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -40,8 +4198,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2431197,
-            "modificationDate" : 1598716866.2431214,
+            "creationDate" : 1599321663.9664462,
+            "modificationDate" : 1599321663.9664495,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -49,8 +4207,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2431273,
-            "modificationDate" : 1598716866.243129,
+            "creationDate" : 1599321663.9664612,
+            "modificationDate" : 1599321663.9664643,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -58,8 +4216,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243135,
-            "modificationDate" : 1598716866.2431364,
+            "creationDate" : 1599321663.966476,
+            "modificationDate" : 1599321663.966479,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -67,8 +4225,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2431426,
-            "modificationDate" : 1598716866.2431443,
+            "creationDate" : 1599321663.966491,
+            "modificationDate" : 1599321663.9664936,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -76,8 +4234,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.24315,
-            "modificationDate" : 1598716866.2431524,
+            "creationDate" : 1599321663.9665058,
+            "modificationDate" : 1599321663.9665089,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -85,8 +4243,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2431583,
-            "modificationDate" : 1598716866.2431598,
+            "creationDate" : 1599321663.9665205,
+            "modificationDate" : 1599321663.966524,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -94,8 +4252,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243166,
-            "modificationDate" : 1598716866.2431674,
+            "creationDate" : 1599321663.9665353,
+            "modificationDate" : 1599321663.9665382,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -103,8 +4261,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2431736,
-            "modificationDate" : 1598716866.2431753,
+            "creationDate" : 1599321663.966551,
+            "modificationDate" : 1599321663.966554,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -112,8 +4270,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2431812,
-            "modificationDate" : 1598716866.243183,
+            "creationDate" : 1599321663.9665658,
+            "modificationDate" : 1599321663.966569,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -121,8 +4279,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243189,
-            "modificationDate" : 1598716866.2431905,
+            "creationDate" : 1599321663.9665804,
+            "modificationDate" : 1599321663.9665835,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -130,8 +4288,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2431965,
-            "modificationDate" : 1598716866.2431982,
+            "creationDate" : 1599321663.9665956,
+            "modificationDate" : 1599321663.9665987,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -139,8 +4297,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2432039,
-            "modificationDate" : 1598716866.2432053,
+            "creationDate" : 1599321663.9666111,
+            "modificationDate" : 1599321663.966614,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -148,8 +4306,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2432115,
-            "modificationDate" : 1598716866.243213,
+            "creationDate" : 1599321663.9666255,
+            "modificationDate" : 1599321663.9666286,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -157,8 +4315,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2432191,
-            "modificationDate" : 1598716866.243221,
+            "creationDate" : 1599321663.9666407,
+            "modificationDate" : 1599321663.9666443,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -166,8 +4324,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2432265,
-            "modificationDate" : 1598716866.2432282,
+            "creationDate" : 1599321663.9666564,
+            "modificationDate" : 1599321663.9666595,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -175,8 +4333,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2432342,
-            "modificationDate" : 1598716866.2432356,
+            "creationDate" : 1599321663.966671,
+            "modificationDate" : 1599321663.9666739,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -184,8 +4342,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2432883,
-            "modificationDate" : 1598716866.2432923,
+            "creationDate" : 1599321663.966686,
+            "modificationDate" : 1599321663.9666889,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -193,8 +4351,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2433152,
-            "modificationDate" : 1598716866.2433174,
+            "creationDate" : 1599321663.966701,
+            "modificationDate" : 1599321663.966704,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -202,8 +4360,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2433233,
-            "modificationDate" : 1598716866.243325,
+            "creationDate" : 1599321663.9667165,
+            "modificationDate" : 1599321663.9667194,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -211,8 +4369,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2433317,
-            "modificationDate" : 1598716866.243333,
+            "creationDate" : 1599321663.9667764,
+            "modificationDate" : 1599321663.9667804,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -220,8 +4378,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243339,
-            "modificationDate" : 1598716866.2433405,
+            "creationDate" : 1599321663.9667928,
+            "modificationDate" : 1599321663.9667957,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -229,8 +4387,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2433465,
-            "modificationDate" : 1598716866.243348,
+            "creationDate" : 1599321663.9668078,
+            "modificationDate" : 1599321663.9668105,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -238,8 +4396,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243354,
-            "modificationDate" : 1598716866.2433553,
+            "creationDate" : 1599321663.9668226,
+            "modificationDate" : 1599321663.9668255,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -247,8 +4405,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243362,
-            "modificationDate" : 1598716866.2433636,
+            "creationDate" : 1599321663.9668372,
+            "modificationDate" : 1599321663.9668405,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -256,8 +4414,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2434156,
-            "modificationDate" : 1598716866.2434175,
+            "creationDate" : 1599321663.966853,
+            "modificationDate" : 1599321663.9668558,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -265,8 +4423,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243424,
-            "modificationDate" : 1598716866.2434256,
+            "creationDate" : 1599321663.9668677,
+            "modificationDate" : 1599321663.9668708,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -274,8 +4432,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2434316,
-            "modificationDate" : 1598716866.2434332,
+            "creationDate" : 1599321663.9668834,
+            "modificationDate" : 1599321663.9668863,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -283,8 +4441,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2434394,
-            "modificationDate" : 1598716866.2434409,
+            "creationDate" : 1599321663.9668992,
+            "modificationDate" : 1599321663.966902,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -292,8 +4450,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243447,
-            "modificationDate" : 1598716866.2434485,
+            "creationDate" : 1599321663.966914,
+            "modificationDate" : 1599321663.966917,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -301,8 +4459,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2434545,
-            "modificationDate" : 1598716866.2434564,
+            "creationDate" : 1599321663.9669292,
+            "modificationDate" : 1599321663.9669323,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -310,8 +4468,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243462,
-            "modificationDate" : 1598716866.2434638,
+            "creationDate" : 1599321663.966944,
+            "modificationDate" : 1599321663.9669468,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -319,8 +4477,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2434697,
-            "modificationDate" : 1598716866.2434714,
+            "creationDate" : 1599321663.9669597,
+            "modificationDate" : 1599321663.966963,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -328,8 +4486,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2434773,
-            "modificationDate" : 1598716866.2434793,
+            "creationDate" : 1599321663.966974,
+            "modificationDate" : 1599321663.9669771,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -337,8 +4495,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2434852,
-            "modificationDate" : 1598716866.2434866,
+            "creationDate" : 1599321663.966989,
+            "modificationDate" : 1599321663.9669921,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -346,8 +4504,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2434928,
-            "modificationDate" : 1598716866.2434945,
+            "creationDate" : 1599321663.967004,
+            "modificationDate" : 1599321663.9670072,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -355,8 +4513,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435002,
-            "modificationDate" : 1598716866.243502,
+            "creationDate" : 1599321663.9670188,
+            "modificationDate" : 1599321663.967022,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -364,8 +4522,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435083,
-            "modificationDate" : 1598716866.2435098,
+            "creationDate" : 1599321663.9670346,
+            "modificationDate" : 1599321663.9670377,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -373,8 +4531,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435157,
-            "modificationDate" : 1598716866.2435174,
+            "creationDate" : 1599321663.9670498,
+            "modificationDate" : 1599321663.9670527,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -382,8 +4540,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435234,
-            "modificationDate" : 1598716866.2435248,
+            "creationDate" : 1599321663.9670646,
+            "modificationDate" : 1599321663.967068,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -391,8 +4549,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435308,
-            "modificationDate" : 1598716866.2435322,
+            "creationDate" : 1599321663.96708,
+            "modificationDate" : 1599321663.967083,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -400,8 +4558,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435384,
-            "modificationDate" : 1598716866.24354,
+            "creationDate" : 1599321663.9670951,
+            "modificationDate" : 1599321663.967098,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -409,8 +4567,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243546,
-            "modificationDate" : 1598716866.2435477,
+            "creationDate" : 1599321663.96711,
+            "modificationDate" : 1599321663.9671128,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -418,8 +4576,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435536,
-            "modificationDate" : 1598716866.243555,
+            "creationDate" : 1599321663.9671254,
+            "modificationDate" : 1599321663.9671283,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -427,8 +4585,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243561,
-            "modificationDate" : 1598716866.2435622,
+            "creationDate" : 1599321663.9671402,
+            "modificationDate" : 1599321663.9671435,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -436,8 +4594,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435684,
-            "modificationDate" : 1598716866.2435699,
+            "creationDate" : 1599321663.9671552,
+            "modificationDate" : 1599321663.9671583,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -445,8 +4603,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435758,
-            "modificationDate" : 1598716866.2435772,
+            "creationDate" : 1599321663.96717,
+            "modificationDate" : 1599321663.9671729,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -454,8 +4612,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243583,
-            "modificationDate" : 1598716866.2435844,
+            "creationDate" : 1599321663.9671848,
+            "modificationDate" : 1599321663.967188,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -463,8 +4621,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435908,
-            "modificationDate" : 1598716866.2435925,
+            "creationDate" : 1599321663.9672258,
+            "modificationDate" : 1599321663.9672294,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -472,8 +4630,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2435982,
-            "modificationDate" : 1598716866.2436,
+            "creationDate" : 1599321663.9672692,
+            "modificationDate" : 1599321663.9672728,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -481,8 +4639,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2436059,
-            "modificationDate" : 1598716866.2436073,
+            "creationDate" : 1599321663.9672832,
+            "modificationDate" : 1599321663.967286,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -490,8 +4648,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2436132,
-            "modificationDate" : 1598716866.2436144,
+            "creationDate" : 1599321663.967296,
+            "modificationDate" : 1599321663.9672983,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -499,8 +4657,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243621,
-            "modificationDate" : 1598716866.2436223,
+            "creationDate" : 1599321663.9673083,
+            "modificationDate" : 1599321663.967311,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -508,8 +4666,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2436283,
-            "modificationDate" : 1598716866.2436516,
+            "creationDate" : 1599321663.967321,
+            "modificationDate" : 1599321663.9673233,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -517,8 +4675,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2436595,
-            "modificationDate" : 1598716866.2436612,
+            "creationDate" : 1599321663.9673748,
+            "modificationDate" : 1599321663.9673789,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -526,8 +4684,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2436671,
-            "modificationDate" : 1598716866.2436688,
+            "creationDate" : 1599321663.967391,
+            "modificationDate" : 1599321663.967394,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -535,8 +4693,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243675,
-            "modificationDate" : 1598716866.2436764,
+            "creationDate" : 1599321663.9674053,
+            "modificationDate" : 1599321663.9674094,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -544,8 +4702,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2436824,
-            "modificationDate" : 1598716866.2436838,
+            "creationDate" : 1599321663.9674232,
+            "modificationDate" : 1599321663.967427,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -553,8 +4711,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2436903,
-            "modificationDate" : 1598716866.2436914,
+            "creationDate" : 1599321663.9674406,
+            "modificationDate" : 1599321663.9674437,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -562,8 +4720,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243698,
-            "modificationDate" : 1598716866.2436996,
+            "creationDate" : 1599321663.9674554,
+            "modificationDate" : 1599321663.9674582,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -571,8 +4729,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437055,
-            "modificationDate" : 1598716866.2437072,
+            "creationDate" : 1599321663.967471,
+            "modificationDate" : 1599321663.9674737,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -580,8 +4738,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437131,
-            "modificationDate" : 1598716866.2437146,
+            "creationDate" : 1599321663.967486,
+            "modificationDate" : 1599321663.9674888,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -589,8 +4747,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437212,
-            "modificationDate" : 1598716866.2437227,
+            "creationDate" : 1599321663.9675004,
+            "modificationDate" : 1599321663.9675038,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -598,8 +4756,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437286,
-            "modificationDate" : 1598716866.2437305,
+            "creationDate" : 1599321663.9675155,
+            "modificationDate" : 1599321663.9675186,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -607,8 +4765,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437365,
-            "modificationDate" : 1598716866.243738,
+            "creationDate" : 1599321663.96753,
+            "modificationDate" : 1599321663.9675329,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -616,8 +4774,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437437,
-            "modificationDate" : 1598716866.2437453,
+            "creationDate" : 1599321663.9675455,
+            "modificationDate" : 1599321663.9675486,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -625,8 +4783,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437518,
-            "modificationDate" : 1598716866.243753,
+            "creationDate" : 1599321663.9675603,
+            "modificationDate" : 1599321663.9675632,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -634,8 +4792,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437592,
-            "modificationDate" : 1598716866.2437606,
+            "creationDate" : 1599321663.9675748,
+            "modificationDate" : 1599321663.9675782,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -643,8 +4801,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437665,
-            "modificationDate" : 1598716866.243768,
+            "creationDate" : 1599321663.96759,
+            "modificationDate" : 1599321663.967593,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -652,8 +4810,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243774,
-            "modificationDate" : 1598716866.2437756,
+            "creationDate" : 1599321663.9676044,
+            "modificationDate" : 1599321663.9676075,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -661,8 +4819,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437813,
-            "modificationDate" : 1598716866.2437832,
+            "creationDate" : 1599321663.9676194,
+            "modificationDate" : 1599321663.9676225,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -670,8 +4828,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243789,
-            "modificationDate" : 1598716866.2437906,
+            "creationDate" : 1599321663.9676354,
+            "modificationDate" : 1599321663.9676385,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -679,8 +4837,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2437966,
-            "modificationDate" : 1598716866.243798,
+            "creationDate" : 1599321663.96765,
+            "modificationDate" : 1599321663.9676528,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -688,8 +4846,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2438042,
-            "modificationDate" : 1598716866.2438056,
+            "creationDate" : 1599321663.967665,
+            "modificationDate" : 1599321663.9676673,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -697,8 +4855,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2438116,
-            "modificationDate" : 1598716866.243813,
+            "creationDate" : 1599321663.9676795,
+            "modificationDate" : 1599321663.9676826,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -706,8 +4864,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243819,
-            "modificationDate" : 1598716866.2438204,
+            "creationDate" : 1599321663.9676943,
+            "modificationDate" : 1599321663.9676971,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -715,8 +4873,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2438262,
-            "modificationDate" : 1598716866.2438278,
+            "creationDate" : 1599321663.9677093,
+            "modificationDate" : 1599321663.9677684,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -724,8 +4882,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243834,
-            "modificationDate" : 1598716866.2438357,
+            "creationDate" : 1599321663.9677844,
+            "modificationDate" : 1599321663.9677875,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -733,8 +4891,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2438416,
-            "modificationDate" : 1598716866.243843,
+            "creationDate" : 1599321663.9677992,
+            "modificationDate" : 1599321663.9678025,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -742,8 +4900,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243849,
-            "modificationDate" : 1598716866.2438505,
+            "creationDate" : 1599321663.9678147,
+            "modificationDate" : 1599321663.9678175,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -751,8 +4909,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243857,
-            "modificationDate" : 1598716866.2438583,
+            "creationDate" : 1599321663.9678297,
+            "modificationDate" : 1599321663.9678326,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -760,8 +4918,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2438643,
-            "modificationDate" : 1598716866.243866,
+            "creationDate" : 1599321663.967845,
+            "modificationDate" : 1599321663.9678476,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -769,8 +4927,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2438958,
-            "modificationDate" : 1598716866.243898,
+            "creationDate" : 1599321663.9678597,
+            "modificationDate" : 1599321663.9678626,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -778,8 +4936,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243904,
-            "modificationDate" : 1598716866.2439055,
+            "creationDate" : 1599321663.9678748,
+            "modificationDate" : 1599321663.9678779,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -787,8 +4945,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439117,
-            "modificationDate" : 1598716866.2439132,
+            "creationDate" : 1599321663.9678895,
+            "modificationDate" : 1599321663.9678924,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -796,8 +4954,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439194,
-            "modificationDate" : 1598716866.2439208,
+            "creationDate" : 1599321663.9679053,
+            "modificationDate" : 1599321663.9679084,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -805,8 +4963,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.243927,
-            "modificationDate" : 1598716866.2439287,
+            "creationDate" : 1599321663.9679205,
+            "modificationDate" : 1599321663.9679234,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -814,8 +4972,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439346,
-            "modificationDate" : 1598716866.2439363,
+            "creationDate" : 1599321663.9679356,
+            "modificationDate" : 1599321663.9679387,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -823,8 +4981,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439423,
-            "modificationDate" : 1598716866.2439437,
+            "creationDate" : 1599321663.9679503,
+            "modificationDate" : 1599321663.9679534,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -832,8 +4990,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439501,
-            "modificationDate" : 1598716866.2439516,
+            "creationDate" : 1599321663.9679656,
+            "modificationDate" : 1599321663.9679687,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -841,8 +4999,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439578,
-            "modificationDate" : 1598716866.2439592,
+            "creationDate" : 1599321663.9679804,
+            "modificationDate" : 1599321663.9679832,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -850,8 +5008,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439651,
-            "modificationDate" : 1598716866.2439668,
+            "creationDate" : 1599321663.967995,
+            "modificationDate" : 1599321663.967998,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -859,8 +5017,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439728,
-            "modificationDate" : 1598716866.2439744,
+            "creationDate" : 1599321663.9680097,
+            "modificationDate" : 1599321663.9680128,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -868,8 +5026,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439802,
-            "modificationDate" : 1598716866.2439818,
+            "creationDate" : 1599321663.9680245,
+            "modificationDate" : 1599321663.968028,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -877,8 +5035,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439883,
-            "modificationDate" : 1598716866.2439895,
+            "creationDate" : 1599321663.9680398,
+            "modificationDate" : 1599321663.9680426,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -886,8 +5044,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2439957,
-            "modificationDate" : 1598716866.243997,
+            "creationDate" : 1599321663.968054,
+            "modificationDate" : 1599321663.9680572,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -895,8 +5053,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244003,
-            "modificationDate" : 1598716866.2440047,
+            "creationDate" : 1599321663.9680688,
+            "modificationDate" : 1599321663.9680722,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -904,8 +5062,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2440104,
-            "modificationDate" : 1598716866.244012,
+            "creationDate" : 1599321663.9680839,
+            "modificationDate" : 1599321663.968087,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -913,8 +5071,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244018,
-            "modificationDate" : 1598716866.2440195,
+            "creationDate" : 1599321663.9680986,
+            "modificationDate" : 1599321663.9681017,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -922,8 +5080,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244026,
-            "modificationDate" : 1598716866.2440274,
+            "creationDate" : 1599321663.9681134,
+            "modificationDate" : 1599321663.9681163,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -931,8 +5089,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2440333,
-            "modificationDate" : 1598716866.2440348,
+            "creationDate" : 1599321663.9681284,
+            "modificationDate" : 1599321663.9681313,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -940,8 +5098,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2440407,
-            "modificationDate" : 1598716866.2440422,
+            "creationDate" : 1599321663.9681437,
+            "modificationDate" : 1599321663.9681468,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -949,8 +5107,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2440484,
-            "modificationDate" : 1598716866.2440495,
+            "creationDate" : 1599321663.9681582,
+            "modificationDate" : 1599321663.9681616,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -958,8 +5116,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2440555,
-            "modificationDate" : 1598716866.2440572,
+            "creationDate" : 1599321663.9681735,
+            "modificationDate" : 1599321663.9681764,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -967,8 +5125,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244063,
-            "modificationDate" : 1598716866.2440646,
+            "creationDate" : 1599321663.9681885,
+            "modificationDate" : 1599321663.9681911,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -976,8 +5134,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244071,
-            "modificationDate" : 1598716866.2440724,
+            "creationDate" : 1599321663.9682298,
+            "modificationDate" : 1599321663.9682336,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -985,8 +5143,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2440782,
-            "modificationDate" : 1598716866.2440796,
+            "creationDate" : 1599321663.9682455,
+            "modificationDate" : 1599321663.9682488,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -994,8 +5152,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2440858,
-            "modificationDate" : 1598716866.2440872,
+            "creationDate" : 1599321663.9682608,
+            "modificationDate" : 1599321663.9682639,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1003,8 +5161,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2440932,
-            "modificationDate" : 1598716866.2440953,
+            "creationDate" : 1599321663.968276,
+            "modificationDate" : 1599321663.9682791,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1012,8 +5170,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244101,
-            "modificationDate" : 1598716866.2441027,
+            "creationDate" : 1599321663.968291,
+            "modificationDate" : 1599321663.9682941,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1021,8 +5179,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2441218,
-            "modificationDate" : 1598716866.2441237,
+            "creationDate" : 1599321663.9683058,
+            "modificationDate" : 1599321663.968309,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1030,8 +5188,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2441301,
-            "modificationDate" : 1598716866.2441316,
+            "creationDate" : 1599321663.9683206,
+            "modificationDate" : 1599321663.9683235,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1039,8 +5197,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2441375,
-            "modificationDate" : 1598716866.244139,
+            "creationDate" : 1599321663.9683359,
+            "modificationDate" : 1599321663.968339,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1048,8 +5206,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2441452,
-            "modificationDate" : 1598716866.2441466,
+            "creationDate" : 1599321663.9683511,
+            "modificationDate" : 1599321663.9683542,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1057,8 +5215,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2441528,
-            "modificationDate" : 1598716866.2441545,
+            "creationDate" : 1599321663.9683666,
+            "modificationDate" : 1599321663.9683697,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1066,8 +5224,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2441602,
-            "modificationDate" : 1598716866.2441618,
+            "creationDate" : 1599321663.9683816,
+            "modificationDate" : 1599321663.9683847,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1075,8 +5233,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244168,
-            "modificationDate" : 1598716866.2441819,
+            "creationDate" : 1599321663.9683962,
+            "modificationDate" : 1599321663.9683993,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1084,8 +5242,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2441893,
-            "modificationDate" : 1598716866.244191,
+            "creationDate" : 1599321663.968412,
+            "modificationDate" : 1599321663.9684145,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1093,8 +5251,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244197,
-            "modificationDate" : 1598716866.2441983,
+            "creationDate" : 1599321663.968426,
+            "modificationDate" : 1599321663.968429,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1102,8 +5260,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244205,
-            "modificationDate" : 1598716866.2442067,
+            "creationDate" : 1599321663.968441,
+            "modificationDate" : 1599321663.9684443,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1111,8 +5269,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442124,
-            "modificationDate" : 1598716866.244214,
+            "creationDate" : 1599321663.9684563,
+            "modificationDate" : 1599321663.968459,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1120,8 +5278,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.24422,
-            "modificationDate" : 1598716866.2442214,
+            "creationDate" : 1599321663.968471,
+            "modificationDate" : 1599321663.9684741,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1129,8 +5287,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442276,
-            "modificationDate" : 1598716866.244229,
+            "creationDate" : 1599321663.968486,
+            "modificationDate" : 1599321663.9684892,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1138,8 +5296,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244235,
-            "modificationDate" : 1598716866.2442365,
+            "creationDate" : 1599321663.968501,
+            "modificationDate" : 1599321663.9685037,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1147,8 +5305,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442424,
-            "modificationDate" : 1598716866.2442439,
+            "creationDate" : 1599321663.9685159,
+            "modificationDate" : 1599321663.9685187,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1156,8 +5314,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442498,
-            "modificationDate" : 1598716866.2442515,
+            "creationDate" : 1599321663.9685302,
+            "modificationDate" : 1599321663.9685333,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1165,8 +5323,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442572,
-            "modificationDate" : 1598716866.2442586,
+            "creationDate" : 1599321663.9685442,
+            "modificationDate" : 1599321663.9685483,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1174,8 +5332,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442648,
-            "modificationDate" : 1598716866.2442665,
+            "creationDate" : 1599321663.9685612,
+            "modificationDate" : 1599321663.9685645,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1183,8 +5341,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442725,
-            "modificationDate" : 1598716866.244274,
+            "creationDate" : 1599321663.9685802,
+            "modificationDate" : 1599321663.9685836,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1192,8 +5350,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442799,
-            "modificationDate" : 1598716866.2442813,
+            "creationDate" : 1599321663.9685965,
+            "modificationDate" : 1599321663.9685996,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1201,8 +5359,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442875,
-            "modificationDate" : 1598716866.244289,
+            "creationDate" : 1599321663.9686108,
+            "modificationDate" : 1599321663.9686139,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1210,8 +5368,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2442956,
-            "modificationDate" : 1598716866.2442973,
+            "creationDate" : 1599321663.9686275,
+            "modificationDate" : 1599321663.9686306,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1219,8 +5377,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244303,
-            "modificationDate" : 1598716866.2443047,
+            "creationDate" : 1599321663.9686427,
+            "modificationDate" : 1599321663.9686458,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1228,8 +5386,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244311,
-            "modificationDate" : 1598716866.2443125,
+            "creationDate" : 1599321663.9686582,
+            "modificationDate" : 1599321663.9686844,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1237,8 +5395,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2443185,
-            "modificationDate" : 1598716866.24432,
+            "creationDate" : 1599321663.968699,
+            "modificationDate" : 1599321663.9687023,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1246,8 +5404,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2443256,
-            "modificationDate" : 1598716866.244327,
+            "creationDate" : 1599321663.968714,
+            "modificationDate" : 1599321663.9687169,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1255,8 +5413,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244333,
-            "modificationDate" : 1598716866.2443347,
+            "creationDate" : 1599321663.9687288,
+            "modificationDate" : 1599321663.9687319,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1264,8 +5422,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244341,
-            "modificationDate" : 1598716866.2443423,
+            "creationDate" : 1599321663.968744,
+            "modificationDate" : 1599321663.9687467,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1273,8 +5431,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244348,
-            "modificationDate" : 1598716866.2443497,
+            "creationDate" : 1599321663.968759,
+            "modificationDate" : 1599321663.9687622,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1282,8 +5440,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2443802,
-            "modificationDate" : 1598716866.2443821,
+            "creationDate" : 1599321663.9687746,
+            "modificationDate" : 1599321663.9687774,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1291,8 +5449,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2443886,
-            "modificationDate" : 1598716866.2443902,
+            "creationDate" : 1599321663.9687898,
+            "modificationDate" : 1599321663.968793,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1300,8 +5458,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2443962,
-            "modificationDate" : 1598716866.2443979,
+            "creationDate" : 1599321663.9688044,
+            "modificationDate" : 1599321663.9688075,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1309,8 +5467,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244404,
-            "modificationDate" : 1598716866.2444055,
+            "creationDate" : 1599321663.9688196,
+            "modificationDate" : 1599321663.9688227,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1318,8 +5476,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.244412,
-            "modificationDate" : 1598716866.2444134,
+            "creationDate" : 1599321663.9688346,
+            "modificationDate" : 1599321663.9688377,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1327,8 +5485,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2444196,
-            "modificationDate" : 1598716866.244421,
+            "creationDate" : 1599321663.9688494,
+            "modificationDate" : 1599321663.9688523,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1336,8 +5494,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2444272,
-            "modificationDate" : 1598716866.2444289,
+            "creationDate" : 1599321663.9688642,
+            "modificationDate" : 1599321663.9688673,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1345,8 +5503,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2444353,
-            "modificationDate" : 1598716866.244437,
+            "creationDate" : 1599321663.9688797,
+            "modificationDate" : 1599321663.9688828,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1354,8 +5512,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2444432,
-            "modificationDate" : 1598716866.2444446,
+            "creationDate" : 1599321663.9688947,
+            "modificationDate" : 1599321663.9688978,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1363,8 +5521,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2444506,
-            "modificationDate" : 1598716866.244452,
+            "creationDate" : 1599321663.9689095,
+            "modificationDate" : 1599321663.9689126,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1372,8 +5530,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2444582,
-            "modificationDate" : 1598716866.2444599,
+            "creationDate" : 1599321663.968924,
+            "modificationDate" : 1599321663.968927,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1381,8 +5539,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1598716866.2444665,
-            "modificationDate" : 1598716866.244468,
+            "creationDate" : 1599321663.9689405,
+            "modificationDate" : 1599321663.968944,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
