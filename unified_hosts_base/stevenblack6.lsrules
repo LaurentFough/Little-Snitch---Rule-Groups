@@ -1,0 +1,2210 @@
+{
+	"description" : " Date: 03 November 2020 15:52:12 (UTC) ,  Number of unique domains: 60,248 , ",
+	"name" : "stevenblack6.lsrules",
+	"rules" :  [
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.71608,
+            "modificationDate" : 1604764805.716083,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking.39-bb4a9-osm.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7160902,
+            "modificationDate" : 1604764805.7160919,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking.42-01pr5-osm-secure.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7160983,
+            "modificationDate" : 1604764805.7160997,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking.5-47737-bi.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716106,
+            "modificationDate" : 1604764805.7161076,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking.crunchiemedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7161136,
+            "modificationDate" : 1604764805.7161155,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking.epicgames.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7161214,
+            "modificationDate" : 1604764805.716123,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking.ibxlink.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716129,
+            "modificationDate" : 1604764805.7161305,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking.lenddom.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7161372,
+            "modificationDate" : 1604764805.7161388,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking.thinkabt.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7161446,
+            "modificationDate" : 1604764805.7161465,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking01.walmart.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7161527,
+            "modificationDate" : 1604764805.716154,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking101.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7161603,
+            "modificationDate" : 1604764805.7161617,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracking22.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716168,
+            "modificationDate" : 1604764805.7161694,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trackingfestival.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7161753,
+            "modificationDate" : 1604764805.7161767,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trackingsoft.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7161827,
+            "modificationDate" : 1604764805.7161844,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tracklink-tel.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.71619,
+            "modificationDate" : 1604764805.7161918,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trackmysales.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7161977,
+            "modificationDate" : 1604764805.7161992,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trackuhub.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7162051,
+            "modificationDate" : 1604764805.7162066,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tradeadexchange.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7162125,
+            "modificationDate" : 1604764805.716214,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trading-rtbg.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.71622,
+            "modificationDate" : 1604764805.7162213,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "traffic-exchange.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7162273,
+            "modificationDate" : 1604764805.716229,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trafficforce.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716235,
+            "modificationDate" : 1604764805.7162364,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trafficholder.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716242,
+            "modificationDate" : 1604764805.7162437,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "traffichunt.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7162497,
+            "modificationDate" : 1604764805.7162511,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trafficleader.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716257,
+            "modificationDate" : 1604764805.7162585,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trafficrouter.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7162645,
+            "modificationDate" : 1604764805.716266,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trafficspaces.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7162719,
+            "modificationDate" : 1604764805.7162733,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trafficstrategies.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7162793,
+            "modificationDate" : 1604764805.716281,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trafficswarm.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7162867,
+            "modificationDate" : 1604764805.7162883,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "traffictrader.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716321,
+            "modificationDate" : 1604764805.7163234,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trafficz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7163298,
+            "modificationDate" : 1604764805.7163312,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "traffiq.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7163374,
+            "modificationDate" : 1604764805.7163389,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trafic.ro"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716345,
+            "modificationDate" : 1604764805.7163467,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "traktrafficflow.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7163527,
+            "modificationDate" : 1604764805.7163544,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tranquilside.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7163603,
+            "modificationDate" : 1604764805.716362,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "travis.bosscasinos.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716368,
+            "modificationDate" : 1604764805.7163694,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trcking4wdm.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7163758,
+            "modificationDate" : 1604764805.7163773,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trcklion.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7163832,
+            "modificationDate" : 1604764805.7163846,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trekdata.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7163908,
+            "modificationDate" : 1604764805.7163925,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tremendoustime.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7163982,
+            "modificationDate" : 1604764805.7164001,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trendcounter.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716406,
+            "modificationDate" : 1604764805.7164075,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trendmd.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7164137,
+            "modificationDate" : 1604764805.7164152,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trickycelery.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7164211,
+            "modificationDate" : 1604764805.7164226,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "triplelift.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7164464,
+            "modificationDate" : 1604764805.7164483,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "triptease.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716454,
+            "modificationDate" : 1604764805.7164557,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trix.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7164617,
+            "modificationDate" : 1604764805.716463,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trk.bee-data.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7164693,
+            "modificationDate" : 1604764805.7164707,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trk.techtarget.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7164767,
+            "modificationDate" : 1604764805.716478,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trk42.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716484,
+            "modificationDate" : 1604764805.7164857,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trkn.us"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7164915,
+            "modificationDate" : 1604764805.7164931,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trknths.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7164989,
+            "modificationDate" : 1604764805.7165005,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trmit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716506,
+            "modificationDate" : 1604764805.7165077,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "truckstomatoes.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7165139,
+            "modificationDate" : 1604764805.7165153,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "truehits.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7165213,
+            "modificationDate" : 1604764805.7165227,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "truehits2.gits.net.th"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7165287,
+            "modificationDate" : 1604764805.71653,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "trustx.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716536,
+            "modificationDate" : 1604764805.7165377,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tsyndicate.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7165434,
+            "modificationDate" : 1604764805.716545,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tubemogul.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7165506,
+            "modificationDate" : 1604764805.7165682,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "turboadv.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7165759,
+            "modificationDate" : 1604764805.7165775,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tvmtracker.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7165837,
+            "modificationDate" : 1604764805.7165852,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "twittad.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7165911,
+            "modificationDate" : 1604764805.7165928,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "twyn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7165987,
+            "modificationDate" : 1604764805.7166004,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "typicalteeth.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166066,
+            "modificationDate" : 1604764805.7166083,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tyroo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166145,
+            "modificationDate" : 1604764805.716616,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "uarating.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166224,
+            "modificationDate" : 1604764805.7166238,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ucfunnel.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166297,
+            "modificationDate" : 1604764805.7166314,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "udkcrj.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166371,
+            "modificationDate" : 1604764805.7166388,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "udncoeln.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166448,
+            "modificationDate" : 1604764805.7166464,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "uib.ff.avast.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166526,
+            "modificationDate" : 1604764805.716654,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ukbanners.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.71666,
+            "modificationDate" : 1604764805.7166615,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ultimateclixx.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166677,
+            "modificationDate" : 1604764805.716669,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ultramercial.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716675,
+            "modificationDate" : 1604764805.7166767,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ultraoranges.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166824,
+            "modificationDate" : 1604764805.716684,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "unarmedindustry.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166898,
+            "modificationDate" : 1604764805.7166915,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "undertone.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7166975,
+            "modificationDate" : 1604764805.7166991,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "universcine.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716705,
+            "modificationDate" : 1604764805.7167065,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "unknowntray.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7167125,
+            "modificationDate" : 1604764805.716714,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "unless.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7167199,
+            "modificationDate" : 1604764805.7167213,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "unrulymedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7167273,
+            "modificationDate" : 1604764805.716729,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "untd.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7167346,
+            "modificationDate" : 1604764805.7167363,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "untidyquestion.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716742,
+            "modificationDate" : 1604764805.7167437,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "unusualtitle.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.71675,
+            "modificationDate" : 1604764805.7167513,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "unwrittenspot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7167573,
+            "modificationDate" : 1604764805.7167587,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "upu.samsungelectronics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7167647,
+            "modificationDate" : 1604764805.716766,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "urlcash.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716772,
+            "modificationDate" : 1604764805.7167737,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "urldata.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7167792,
+            "modificationDate" : 1604764805.7167811,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "userreplay.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7168005,
+            "modificationDate" : 1604764805.7168026,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "userreplay.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716809,
+            "modificationDate" : 1604764805.7168105,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "utils.mediageneral.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7168167,
+            "modificationDate" : 1604764805.716818,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "utl-1.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716824,
+            "modificationDate" : 1604764805.716826,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "uttermosthobbies.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7168317,
+            "modificationDate" : 1604764805.7168336,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "uu.domainforlite.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716839,
+            "modificationDate" : 1604764805.7168412,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "uzk4umokyri3.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7168472,
+            "modificationDate" : 1604764805.7168486,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "v1.cnzz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716855,
+            "modificationDate" : 1604764805.7168565,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "v1adserver.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7168627,
+            "modificationDate" : 1604764805.7168643,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "v1hcmqbaqw.ru"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.71687,
+            "modificationDate" : 1604764805.7168717,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "validclick.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716878,
+            "modificationDate" : 1604764805.7168794,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "valuead.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7168856,
+            "modificationDate" : 1604764805.716887,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "valueclickmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7168932,
+            "modificationDate" : 1604764805.7168946,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "valuecommerce.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7169006,
+            "modificationDate" : 1604764805.7169023,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "valuesponsor.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716908,
+            "modificationDate" : 1604764805.71691,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vanfireworks.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7169156,
+            "modificationDate" : 1604764805.7169173,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "variablefitness.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7169232,
+            "modificationDate" : 1604764805.7169247,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vcommission.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7169309,
+            "modificationDate" : 1604764805.7169323,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "veille-referencement.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7169383,
+            "modificationDate" : 1604764805.7169397,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "velismedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7169456,
+            "modificationDate" : 1604764805.7169476,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ventivmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7169533,
+            "modificationDate" : 1604764805.7169552,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "verblife-3.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716961,
+            "modificationDate" : 1604764805.7169626,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "verblife-4.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7169685,
+            "modificationDate" : 1604764805.71697,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "verblife-5.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716976,
+            "modificationDate" : 1604764805.7169771,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vericlick.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716983,
+            "modificationDate" : 1604764805.7169845,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vertamedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7169905,
+            "modificationDate" : 1604764805.716992,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "verticalmass.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.716998,
+            "modificationDate" : 1604764805.7169998,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vervewireless.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7170055,
+            "modificationDate" : 1604764805.7170072,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "videoadex.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717013,
+            "modificationDate" : 1604764805.7170146,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "videoegg.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7170331,
+            "modificationDate" : 1604764805.7170353,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "videostats.kakao.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7170415,
+            "modificationDate" : 1604764805.7170432,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "view4cash.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7170491,
+            "modificationDate" : 1604764805.7170506,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "visistat.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7170565,
+            "modificationDate" : 1604764805.717058,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "visitbox.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7170641,
+            "modificationDate" : 1604764805.7170658,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "visual-pagerank.fr"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7170718,
+            "modificationDate" : 1604764805.7170734,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vivtracking.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7170794,
+            "modificationDate" : 1604764805.7170813,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vmmpxl.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717087,
+            "modificationDate" : 1604764805.7170885,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "voicefive.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7170944,
+            "modificationDate" : 1604764805.717096,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "voicevegetable.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717102,
+            "modificationDate" : 1604764805.7171037,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "voluum.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171094,
+            "modificationDate" : 1604764805.717111,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "volvelle.tech"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171168,
+            "modificationDate" : 1604764805.7171185,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "voodoo-ads.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171245,
+            "modificationDate" : 1604764805.717126,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vpon.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717132,
+            "modificationDate" : 1604764805.7171335,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vrs.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171395,
+            "modificationDate" : 1604764805.717141,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vrtzcontextualads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171469,
+            "modificationDate" : 1604764805.7171483,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vs.tucows.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171543,
+            "modificationDate" : 1604764805.717156,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vtracy.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171617,
+            "modificationDate" : 1604764805.7171633,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vwo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717169,
+            "modificationDate" : 1604764805.7171707,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "waardex.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171764,
+            "modificationDate" : 1604764805.717178,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "warlog.ru"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171838,
+            "modificationDate" : 1604764805.7171855,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "waryfog.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171912,
+            "modificationDate" : 1604764805.7171926,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wateryvan.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7171986,
+            "modificationDate" : 1604764805.7172,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wd-track.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717206,
+            "modificationDate" : 1604764805.7172077,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "web-redirecting.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7172134,
+            "modificationDate" : 1604764805.717215,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "web.informer.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7172205,
+            "modificationDate" : 1604764805.7172225,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "web2.deja.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7172282,
+            "modificationDate" : 1604764805.7172296,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webads.co.nz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7172356,
+            "modificationDate" : 1604764805.717237,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webcash.nl"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717243,
+            "modificationDate" : 1604764805.7172568,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webcontentassessor.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7172642,
+            "modificationDate" : 1604764805.7172656,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webcounter.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7172718,
+            "modificationDate" : 1604764805.7172732,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webgains.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7172792,
+            "modificationDate" : 1604764805.7172809,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "weborama.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7172868,
+            "modificationDate" : 1604764805.7172885,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "weborama.fr"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7172945,
+            "modificationDate" : 1604764805.717296,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webpower.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717302,
+            "modificationDate" : 1604764805.7173035,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webreseau.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173097,
+            "modificationDate" : 1604764805.7173111,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webseoanalytics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717317,
+            "modificationDate" : 1604764805.7173188,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webstat.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173245,
+            "modificationDate" : 1604764805.7173262,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webstat.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173321,
+            "modificationDate" : 1604764805.7173338,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webstats4u.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173398,
+            "modificationDate" : 1604764805.7173412,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webtracky.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173471,
+            "modificationDate" : 1604764805.7173486,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webtraffic.se"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173545,
+            "modificationDate" : 1604764805.717356,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webtraxx.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717362,
+            "modificationDate" : 1604764805.7173634,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webtrends.telegraph.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173693,
+            "modificationDate" : 1604764805.717371,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "webxcdn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173767,
+            "modificationDate" : 1604764805.7173784,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wellmadefrog.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173843,
+            "modificationDate" : 1604764805.717386,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "werbung.meteoxpress.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717392,
+            "modificationDate" : 1604764805.7173936,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wetrack.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7173994,
+            "modificationDate" : 1604764805.7174008,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "whaleads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717407,
+            "modificationDate" : 1604764805.7174082,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wheredoyoucomefrom.ovh"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7174144,
+            "modificationDate" : 1604764805.717416,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "whirlwealth.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7174218,
+            "modificationDate" : 1604764805.7174234,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "whiskyqueue.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7174294,
+            "modificationDate" : 1604764805.717431,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "whispa.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717437,
+            "modificationDate" : 1604764805.7174385,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "whisperingcrib.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7174444,
+            "modificationDate" : 1604764805.7174459,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "whoisonline.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7174518,
+            "modificationDate" : 1604764805.7174532,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wholesaletraffic.info"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7174592,
+            "modificationDate" : 1604764805.7174606,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "widget.privy.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7174666,
+            "modificationDate" : 1604764805.7174685,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "widgetbucks.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7174866,
+            "modificationDate" : 1604764805.7174885,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "win.iqm.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717495,
+            "modificationDate" : 1604764805.7174966,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "window.nixnet.cz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175028,
+            "modificationDate" : 1604764805.7175043,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wintricksbanner.googlepages.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175105,
+            "modificationDate" : 1604764805.717512,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wirecomic.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717518,
+            "modificationDate" : 1604764805.7175198,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wisepops.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175257,
+            "modificationDate" : 1604764805.7175276,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "witch-counter.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175333,
+            "modificationDate" : 1604764805.717535,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wlmarketing.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175412,
+            "modificationDate" : 1604764805.7175426,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "womanear.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175486,
+            "modificationDate" : 1604764805.71755,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wondoads.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717556,
+            "modificationDate" : 1604764805.7175577,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "woopra.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175636,
+            "modificationDate" : 1604764805.7175653,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "worldwide-cash.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175715,
+            "modificationDate" : 1604764805.7175732,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "worldwidedigitalads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175791,
+            "modificationDate" : 1604764805.7175806,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "worriednumber.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175868,
+            "modificationDate" : 1604764805.7175882,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wpnrtnmrewunrtok.xyz"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7175941,
+            "modificationDate" : 1604764805.7175956,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wryfinger.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176015,
+            "modificationDate" : 1604764805.717603,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wt-eu02.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717609,
+            "modificationDate" : 1604764805.7176106,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "wtlive.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176163,
+            "modificationDate" : 1604764805.717618,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www-banner.chat.ru"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176237,
+            "modificationDate" : 1604764805.7176254,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www-google-analytics.l.google.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176313,
+            "modificationDate" : 1604764805.7176328,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.dnps.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717639,
+            "modificationDate" : 1604764805.7176402,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.kaplanindex.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176464,
+            "modificationDate" : 1604764805.7176478,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.photo-ads.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176538,
+            "modificationDate" : 1604764805.7176552,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www8.glam.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176611,
+            "modificationDate" : 1604764805.7176628,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "x-traceur.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176683,
+            "modificationDate" : 1604764805.71767,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "x6.yakiuchi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176757,
+            "modificationDate" : 1604764805.7176774,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xapads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176833,
+            "modificationDate" : 1604764805.7176847,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xchange.ro"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176907,
+            "modificationDate" : 1604764805.7176921,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xertive.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7176979,
+            "modificationDate" : 1604764805.7176993,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xfreeservice.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7177231,
+            "modificationDate" : 1604764805.7177253,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xg4ken.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7177312,
+            "modificationDate" : 1604764805.717733,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xovq5nemr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717739,
+            "modificationDate" : 1604764805.7177405,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xplusone.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7177465,
+            "modificationDate" : 1604764805.717748,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xponsor.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7177541,
+            "modificationDate" : 1604764805.7177556,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xpu.samsungelectronics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7177618,
+            "modificationDate" : 1604764805.7177634,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xq1.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7177691,
+            "modificationDate" : 1604764805.7177713,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xtendmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7177773,
+            "modificationDate" : 1604764805.717779,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xtracker.logimeter.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717785,
+            "modificationDate" : 1604764805.7177863,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xtremetop100.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7177925,
+            "modificationDate" : 1604764805.717794,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xxxmyself.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178,
+            "modificationDate" : 1604764805.7178016,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "y.ibsys.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178073,
+            "modificationDate" : 1604764805.717809,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yab-adimages.s3.amazonaws.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178147,
+            "modificationDate" : 1604764805.7178164,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yepads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178223,
+            "modificationDate" : 1604764805.7178237,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yesads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178297,
+            "modificationDate" : 1604764805.7178311,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yesadvertising.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717837,
+            "modificationDate" : 1604764805.7178385,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yieldads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178445,
+            "modificationDate" : 1604764805.7178457,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yieldlab.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178516,
+            "modificationDate" : 1604764805.7178535,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yieldmanager.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178593,
+            "modificationDate" : 1604764805.717861,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yieldmo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178664,
+            "modificationDate" : 1604764805.717868,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yieldtraffic.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178738,
+            "modificationDate" : 1604764805.7178755,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yldbt.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178814,
+            "modificationDate" : 1604764805.7178829,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ymetrica1.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178888,
+            "modificationDate" : 1604764805.7178903,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yoggrt.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7178962,
+            "modificationDate" : 1604764805.7178977,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "ypu.samsungelectronics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7179036,
+            "modificationDate" : 1604764805.7179055,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "z3dmbpl6309s.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7179112,
+            "modificationDate" : 1604764805.717913,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "z501lpfg9x8v.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7179186,
+            "modificationDate" : 1604764805.7179203,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "z5x.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717926,
+            "modificationDate" : 1604764805.7179275,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zangocash.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7179458,
+            "modificationDate" : 1604764805.717948,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zanox-affiliate.de"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7179546,
+            "modificationDate" : 1604764805.717956,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zanox.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7179623,
+            "modificationDate" : 1604764805.717964,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zantracker.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.71797,
+            "modificationDate" : 1604764805.7179716,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zbwp6ghm.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7179773,
+            "modificationDate" : 1604764805.717979,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zealousfield.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.717985,
+            "modificationDate" : 1604764805.7179866,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zencudo.co.uk"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7179928,
+            "modificationDate" : 1604764805.7179942,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zenkreka.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7180007,
+            "modificationDate" : 1604764805.718002,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zenzuu.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.718008,
+            "modificationDate" : 1604764805.7180097,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zeus.developershed.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7180157,
+            "modificationDate" : 1604764805.7180173,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zeusclicks.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7180235,
+            "modificationDate" : 1604764805.718025,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zlp6s.pw"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.718031,
+            "modificationDate" : 1604764805.7180324,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zm232.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7180383,
+            "modificationDate" : 1604764805.7180398,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7180457,
+            "modificationDate" : 1604764805.7180471,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zpu.samsungelectronics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.718053,
+            "modificationDate" : 1604764805.7180548,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zqtk.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7180605,
+            "modificationDate" : 1604764805.7180622,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zukxd6fkxqn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1604764805.7180681,
+            "modificationDate" : 1604764805.7180698,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zy16eoat1w.com"
+        }    ]
+}
